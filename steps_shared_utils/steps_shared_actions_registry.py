@@ -35,6 +35,7 @@ from steps_shared_actions.force_date_injection_5days_action import force_date_in
 
 from steps_shared_actions.select_country_prefix_action import select_country_prefix_action
 from steps_shared_actions.select_country_two_steps import select_country_two_steps
+from steps_shared_actions.select_mat_option_action import select_mat_option_action
 
 
 from steps_shared_actions.full_page_screenshot_action import full_page_screenshot_action
@@ -46,6 +47,7 @@ ACTION_HANDLERS = {
     "click": click_action,
     "enter_text": enter_text_action,
     "select_option": select_option_action,
+    "select_mat_option_action": select_mat_option_action,
     "manual": manual_action,
     "click_safe_area": click_safe_area_action,
     "page_transition": page_transition_action,

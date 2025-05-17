@@ -15,6 +15,18 @@ from selenium.webdriver.support.ui import Select
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException, TimeoutException, NoAlertPresentException
 
+# Import action rules for different HTML tags
+from step_builder_selenium_flow.element_action_rules import (
+    input_rules,
+    select_rules,
+    textarea_rules,
+    anchor_rules,
+    image_rules,
+    span_div_button_rules,
+    ul_rules,
+    default_rules,
+)
+
 
 
 def element_selection_gui(driver):
@@ -290,101 +302,36 @@ def ask_if_skip_element_selection():
 # // ----------------------------------------------------------------
 
 
+# Mapping from tag name to handler function
+TAG_HANDLERS = {
+    "input": input_rules.actions_for_input,
+    "select": select_rules.actions_for_select,
+    "textarea": textarea_rules.actions_for_textarea,
+    "a": anchor_rules.actions_for_anchor,
+    "img": image_rules.actions_for_image,
+    "span": span_div_button_rules.actions_for_span_div_button,
+    "div": span_div_button_rules.actions_for_span_div_button,
+    "button": span_div_button_rules.actions_for_span_div_button,
+    "ul": ul_rules.actions_for_ul,
+}
+
+
 def get_possible_actions_for_element(element_info):
+    """Return a list of possible action names for the given element."""
     print("[DEBUG] get_possible_actions_for_element(...) called.")
+
     tag_name = element_info.get("tag_name", "").lower()
     attributes = element_info.get("attributes", {})
-    input_type = attributes.get("type", "").lower()
+    text_content = element_info.get("text_content", "")
 
-    possible_actions = []
+    handler = TAG_HANDLERS.get(tag_name, default_rules.actions_for_default)
 
-    # Helper function to check for substrings in ID or name.
-    def in_id_or_name(substr):
-        elem_id = attributes.get("id", "").lower()
-        elem_name = attributes.get("name", "").lower()
-        return (substr.lower() in elem_id) or (substr.lower() in elem_name)
+    if tag_name in ("span", "div", "button"):
+        actions = handler(attributes, text_content)
+    else:
+        actions = handler(attributes)
 
-    if tag_name == "input":
-        # New branch: if this input is an autocomplete for country names,
-        # we want to suggest our unified action.
-        if attributes.get("autocomplete", "").lower() == "country-name" or \
-           attributes.get("id", "").lower() == "autocomplete-applicant-address-country":
-            possible_actions.append("select_country_two_steps")
-        else:
-            if input_type in ("text", "email", "password", "tel", ""):
-                if "scwShow" in attributes.get("onfocus", "") or "scwShow" in attributes.get("onclick", ""):
-                    possible_actions.append("enter_date_custom_dialog_action")
-                else:
-                    possible_actions.append("enter_text")
-                    possible_actions.append("click")
-                input_class = attributes.get("class", "").lower()
-                if "datepicker" in input_class:
-                    if "readonly" in attributes and "journey" in attributes.get("name", "").lower():
-                        possible_actions.append("force_date_injection_5days_action")
-                    else:
-                        possible_actions.append("force_date_injection")
-                if "search countries" in attributes.get("placeholder", "").lower():
-                    possible_actions.append("search_and_select_country_action")
-
-                # <<-- 🟢 הוסף את התנאי החדש כאן
-                if attributes.get("role", "").lower() == "combobox" or \
-                "mat-mdc-autocomplete-trigger" in input_class or \
-                attributes.get("aria-autocomplete", "").lower() == "list":
-                    possible_actions.append("select_country_two_steps")
-
-                possible_actions.append("enter_ocr_result")
-                if "hasDatepicker" in attributes.get("class", ""):
-                    possible_actions.append("enter_date_dd_mm_yyyy_action")
-            elif input_type in ("radio", "checkbox"):
-                possible_actions.append("click")
-            else:
-                possible_actions.append("click")
-
-    elif tag_name == "select":
-        possible_actions.append("select_option")
-        possible_actions.append("click")
-        if in_id_or_name("day"):
-            possible_actions.append("enter_day_action")
-        if in_id_or_name("month"):
-            possible_actions.append("enter_month_action")
-        if in_id_or_name("year"):
-            possible_actions.append("enter_year_action")
-
-    elif tag_name == "textarea":
-        possible_actions.append("enter_text")
-
-    elif tag_name == "a":
-        possible_actions.append("click")
-
-    elif tag_name == "img":
-        possible_actions.append("ocr_captcha")
-        possible_actions.append("click")
-
-    elif tag_name in ("span", "div", "button"):
-        # First check for an Ant Design select box.
-        if "ant-select-selector" in (attributes.get("class", "").lower()):
-            possible_actions.append("select_country_two_steps")
-        elif "modal-content" in attributes.get("class", "").lower():
-            possible_actions.append("dismiss_modal")
-        else:
-            possible_actions.append("click")
-            div_class = attributes.get("class", "").lower()
-            if "selected-flag" in div_class:
-                possible_actions.append("select_country_prefix")
-            possible_actions.append("capture_request_number")
-            possible_actions.append("click")
-            text_content = element_info.get("text_content", "").lower()
-            if "all countries" in text_content or "frequently selected" in text_content or "search" in text_content:
-                possible_actions.append("search_and_select_country_action")
-    elif tag_name == "ul":
-        if "chosen-choices" in attributes.get("class", "").lower():
-            possible_actions.append("force_chosen_value_injection_action")
-            possible_actions.append("click")
-            possible_actions.append("select_country_two_steps")
-        else:
-            possible_actions.append("click")
-
-    return possible_actions
+    return actions
 
 
 
