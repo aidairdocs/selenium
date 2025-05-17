@@ -69,5 +69,6 @@ ACTION_HANDLERS = {
     "dismiss_modal": dismiss_modal_action,
     "safe_action": safe_action,
     "select_country_two_steps": select_country_two_steps,
+    "select_mat_option": select_mat_option_action,
 
 }
