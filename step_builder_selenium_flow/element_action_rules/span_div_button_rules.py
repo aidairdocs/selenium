@@ -7,8 +7,11 @@ def actions_for_span_div_button(attributes, text_content=""):
 
     if "ant-select-selector" in cls:
         actions.append("select_country_two_steps")
+ codex/locate-function-get-possible-actions-for-element-yt2weh
     elif "mat-mdc-select-value" in cls or "mat-select-value" in cls:
         actions.append("select_mat_option")
+=======
+ main
     elif "modal-content" in cls:
         actions.append("dismiss_modal")
     else:
