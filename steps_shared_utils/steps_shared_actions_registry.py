@@ -47,6 +47,7 @@ ACTION_HANDLERS = {
     "click": click_action,
     "enter_text": enter_text_action,
     "select_option": select_option_action,
+    "select_mat_option_action": select_mat_option_action,
     "manual": manual_action,
     "click_safe_area": click_safe_area_action,
     "page_transition": page_transition_action,
