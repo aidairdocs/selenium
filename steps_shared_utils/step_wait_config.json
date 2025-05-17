@@ -1,0 +1,6106 @@
+{
+    "3824a7c4-28ef-4d57-adca-8ab8ea022a09": {
+        "form_name": "SRI LANKA ETA",
+        "steps": {
+            "770d89fe-9f7e-4038-874f-66ca4793ceeb": {
+                "goto": {
+                    "ema": 7.000000000000002,
+                    "count": 19
+                }
+            },
+            "ab80bb3a-dc1b-4f79-8fe9-cc8e3b6908e8": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 19
+                }
+            },
+            "3ce9677f-1b21-48c4-a74d-92f1a48a04b3": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 19
+                }
+            },
+            "81b61a80-7c55-4a5c-9768-c37c49b159f4": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 19
+                }
+            },
+            "065a0200-aae2-4d61-9cae-6ee4889f6eba": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 19
+                }
+            },
+            "51d3e561-9d79-4ec7-a856-550df3a7ac89": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 19
+                }
+            },
+            "00f92307-f57f-457e-b744-3d544ff4aca8": {
+                "enter_date_custom_dialog_action": {
+                    "ema": 0.0,
+                    "count": 19
+                }
+            },
+            "a01b8dd0-017e-4167-ab79-daf46669ea7e": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 6
+                }
+            },
+            "aadc692e-9e3a-4be8-910c-73c24b03edcd": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 13
+                }
+            },
+            "fdab1e8e-f2ca-490e-a8cf-97c0678e7095": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 5
+                }
+            },
+            "39b62019-1e27-4bcd-bc09-3870e9d8eb1a": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 8
+                }
+            },
+            "b79204ee-9d04-4b9b-b6a3-7b0960b598d8": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 8
+                }
+            },
+            "dbdedbb3-dc5f-4993-94ae-d3cb7e07fec3": {
+                "enter_date_custom_dialog_action": {
+                    "ema": 0.0,
+                    "count": 6
+                }
+            },
+            "872f4c78-c6bf-4030-96f7-81b287e54eed": {
+                "enter_date_custom_dialog_action": {
+                    "ema": 0.0,
+                    "count": 4
+                }
+            },
+            "5c086b9a-522c-42ca-9910-72bae4e8cd12": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 4
+                }
+            },
+            "e0c60f93-70fe-49db-b8d4-43fc93f070c1": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 4
+                }
+            },
+            "ff968b32-5f22-41c8-a1b2-645f517fb90d": {
+                "manual": {
+                    "ema": 7.000000000000002,
+                    "count": 4
+                }
+            },
+            "f93eded2-4a74-4fee-a477-a1cf0a45f672": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 3
+                }
+            },
+            "5e42ec5c-d4e8-468a-a605-bc4b880349da": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 3
+                }
+            },
+            "12f912e7-8836-4b15-946e-d33c39d9dd07": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 3
+                }
+            },
+            "c8585a84-cc61-4ccd-8eb2-1a936e1e0527": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 3
+                }
+            },
+            "26551184-a234-4712-a583-affdfae9a0e7": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 3
+                }
+            },
+            "00e202d8-a129-49f2-bb8a-db3a5360093d": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 3
+                }
+            },
+            "d19279de-19b5-4aa3-9faa-fbb8a32219ee": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 3
+                }
+            },
+            "b811c0dc-0e0b-4ff8-882f-635842edf71f": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 3
+                }
+            },
+            "f5220626-1ff7-4c55-b501-36ce43752105": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 3
+                }
+            },
+            "dad06494-19a7-4d56-8638-669a083758aa": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 3
+                }
+            },
+            "580b086f-bc79-487a-9833-40b12e46b37b": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 3
+                }
+            },
+            "79250bc3-1ad5-4c21-943d-593868812dda": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 3
+                }
+            },
+            "645789f0-c6bb-46a8-b1ec-c7d326cf2e2d": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 3
+                }
+            },
+            "4d4113c7-0a63-4f55-9116-492130bc3dea": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 3
+                }
+            },
+            "7ebf6ea9-46ee-4f4d-80ea-d56c4f3c8c37": {
+                "manual": {
+                    "ema": 7.000000000000002,
+                    "count": 3
+                }
+            },
+            "670c9b7f-4089-4560-9043-cb0b781ccf6a": {
+                "enter_date_custom_dialog_action": {
+                    "ema": 0.0,
+                    "count": 14
+                }
+            },
+            "3519fe3a-bb3e-4053-a38e-3835ba06fb05": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 13
+                }
+            },
+            "47c3ef09-4608-44f8-b67a-d0b16ec26d6f": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 4
+                }
+            },
+            "f5827e47-868c-48dc-8417-9f2de86d0365": {
+                "enter_text": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "e96aaf58-61b8-4946-9f39-0697f8a1bcda": {
+                "enter_date_custom_dialog_action": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "b7845dcb-a83b-4061-b216-e5718be5fca6": {
+                "enter_date_custom_dialog_action": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "b1a19b5e-6bf9-46b1-9279-5fa2c38d5ac3": {
+                "select_option": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "94eada8a-dcda-4d9d-afef-f68d163e2f7d": {
+                "select_option": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "034e733b-f05d-407f-a8a9-3a589b61a8f4": {
+                "manual": {
+                    "ema": 7.0,
+                    "count": 1
+                }
+            }
+        }
+    },
+    "770d89fe-9f7e-4038-874f-66ca4793ceeb": {
+        "goto": {
+            "ema": 5.017592186044417,
+            "count": 33
+        }
+    },
+    "ab80bb3a-dc1b-4f79-8fe9-cc8e3b6908e8": {
+        "click": {
+            "ema": 0.0,
+            "count": 33
+        }
+    },
+    "3ce9677f-1b21-48c4-a74d-92f1a48a04b3": {
+        "click": {
+            "ema": 0.0,
+            "count": 33
+        }
+    },
+    "81b61a80-7c55-4a5c-9768-c37c49b159f4": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 33
+        }
+    },
+    "065a0200-aae2-4d61-9cae-6ee4889f6eba": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 33
+        }
+    },
+    "51d3e561-9d79-4ec7-a856-550df3a7ac89": {
+        "select_option": {
+            "ema": 0.0019342813113834097,
+            "count": 33
+        }
+    },
+    "00f92307-f57f-457e-b744-3d544ff4aca8": {
+        "enter_date_custom_dialog_action": {
+            "ema": 0.0,
+            "count": 32
+        }
+    },
+    "a01b8dd0-017e-4167-ab79-daf46669ea7e": {
+        "select_option": {
+            "ema": 2.8400000000000003,
+            "count": 18
+        }
+    },
+    "aadc692e-9e3a-4be8-910c-73c24b03edcd": {
+        "select_option": {
+            "ema": 0.08589934592000005,
+            "count": 15
+        }
+    },
+    "fdab1e8e-f2ca-490e-a8cf-97c0678e7095": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 14
+        }
+    },
+    "39b62019-1e27-4bcd-bc09-3870e9d8eb1a": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 28
+        }
+    },
+    "b79204ee-9d04-4b9b-b6a3-7b0960b598d8": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 28
+        }
+    },
+    "dbdedbb3-dc5f-4993-94ae-d3cb7e07fec3": {
+        "enter_date_custom_dialog_action": {
+            "ema": 0.0,
+            "count": 14
+        }
+    },
+    "872f4c78-c6bf-4030-96f7-81b287e54eed": {
+        "enter_date_custom_dialog_action": {
+            "ema": 0.0,
+            "count": 14
+        }
+    },
+    "5c086b9a-522c-42ca-9910-72bae4e8cd12": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 14
+        }
+    },
+    "e0c60f93-70fe-49db-b8d4-43fc93f070c1": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 14
+        }
+    },
+    "ff968b32-5f22-41c8-a1b2-645f517fb90d": {
+        "manual": {
+            "ema": 5.0,
+            "count": 14
+        }
+    },
+    "f93eded2-4a74-4fee-a477-a1cf0a45f672": {
+        "select_option": {
+            "ema": 1.3617152000000003,
+            "count": 14
+        }
+    },
+    "5e42ec5c-d4e8-468a-a605-bc4b880349da": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "12f912e7-8836-4b15-946e-d33c39d9dd07": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "c8585a84-cc61-4ccd-8eb2-1a936e1e0527": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "26551184-a234-4712-a583-affdfae9a0e7": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "00e202d8-a129-49f2-bb8a-db3a5360093d": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "d19279de-19b5-4aa3-9faa-fbb8a32219ee": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "b811c0dc-0e0b-4ff8-882f-635842edf71f": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "f5220626-1ff7-4c55-b501-36ce43752105": {
+        "click": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "dad06494-19a7-4d56-8638-669a083758aa": {
+        "click": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "580b086f-bc79-487a-9833-40b12e46b37b": {
+        "click": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "79250bc3-1ad5-4c21-943d-593868812dda": {
+        "click": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "645789f0-c6bb-46a8-b1ec-c7d326cf2e2d": {
+        "click": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "4d4113c7-0a63-4f55-9116-492130bc3dea": {
+        "click": {
+            "ema": 0.1677721600000001,
+            "count": 11
+        }
+    },
+    "7ebf6ea9-46ee-4f4d-80ea-d56c4f3c8c37": {
+        "manual": {
+            "ema": 5.0,
+            "count": 10
+        }
+    },
+    "599d550e-b891-467a-ae4c-2786dfc0b92f": {
+        "manual": {
+            "ema": 5.2684354560000015,
+            "count": 10
+        }
+    },
+    "02c84e46-23aa-4e97-8fa2-5d0c8f1da9b7": {
+        "form_name": "ESTA",
+        "steps": {
+            "19d50345-466f-4e43-9c70-7d9cb655619a": {
+                "goto": {
+                    "ema": 7.000000000000002,
+                    "count": 6
+                }
+            },
+            "92782b39-b321-42b4-8a27-f3936431545f": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 6
+                }
+            },
+            "bf43711f-c1e4-420e-8b67-09931692fc07": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 6
+                }
+            },
+            "ac504440-182e-45b1-8173-2d60c794e605": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 6
+                }
+            },
+            "858ed08a-09b7-4e7c-896d-c496103d9aad": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 6
+                }
+            },
+            "ba6cf976-e007-44ef-91c8-60b6b9014e20": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 6
+                }
+            },
+            "36ae1e53-4483-49c5-b082-616a5e1392b8": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 6
+                }
+            },
+            "d32f6bee-5d20-456b-9389-4be52ab5f2a8": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 6
+                }
+            },
+            "fbaf3a1e-85ca-4868-8565-72b27c5a374b": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 6
+                }
+            },
+            "10741132-bd92-40e5-92ee-f79ba8ade261": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 6
+                }
+            },
+            "23a5b6b5-1685-48d0-85a2-6c74b972292e": {
+                "manual": {
+                    "ema": 7.000000000000002,
+                    "count": 6
+                }
+            },
+            "e2a58939-4f5f-4aa1-b1e6-f529862422bb": {
+                "click": {
+                    "ema": 2.8672000000000004,
+                    "count": 5
+                }
+            },
+            "51dd1bd7-0743-4f0c-9f49-4e9b1dbfa4dd": {
+                "enter_day_action": {
+                    "ema": 0.0,
+                    "count": 5
+                }
+            },
+            "356779d0-3a93-496d-a7bd-e81c6b80272e": {
+                "enter_month_action": {
+                    "ema": 0.0,
+                    "count": 5
+                }
+            },
+            "9391c798-0665-47de-8294-bb5967f1547b": {
+                "enter_year_action": {
+                    "ema": 0.0,
+                    "count": 5
+                }
+            },
+            "1f39fca9-6e50-4bb6-8840-75d9a4544f5b": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 5
+                }
+            },
+            "ed89e85c-d29f-44da-857a-d61ae89f0285": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 5
+                }
+            },
+            "1e9aecac-72ed-4cd2-87c8-490f6bb13bfb": {
+                "click": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "24587d8a-78a4-4445-803d-10fbf626bb3c": {
+                "select_option": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "344ddc6e-4807-4833-b6a4-e690816a5690": {
+                "select_option": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "0240aeb6-0085-484c-bed2-95c787d62661": {
+                "click": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "2c26034e-e419-4078-83b1-5a5f6e9de1b6": {
+                "click": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "9500d872-9614-4e2f-aa0d-f57cdfeb794f": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 3
+                }
+            },
+            "3ced28b3-891a-40fe-9c7d-cb266ade108e": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 3
+                }
+            }
+        }
+    },
+    "12afbde5-182c-49b3-b74c-4845c22957a9": {
+        "goto": {
+            "ema": 5.070368744177665,
+            "count": 16
+        }
+    },
+    "c6fbbeef-e0ce-4896-8d88-73d6f23aecfd": {
+        "form_name": "INDIA 1 Year Tourist",
+        "steps": {
+            "12afbde5-182c-49b3-b74c-4845c22957a9": {
+                "goto": {
+                    "ema": 7.000000000000002,
+                    "count": 29
+                }
+            },
+            "936fe137-fd02-4209-9ad7-513a21d72dad": {
+                "click_safe_area": {
+                    "ema": 7.000000000000001,
+                    "count": 2
+                }
+            },
+            "ce6d488a-d6a3-4297-9ef9-43ec0e6a3376": {
+                "click_safe_area": {
+                    "ema": 7.0,
+                    "count": 1
+                }
+            },
+            "fa48f982-75c7-4240-8e31-25b2c1bef828": {
+                "manual": {
+                    "ema": 7.000000000000002,
+                    "count": 18
+                }
+            },
+            "94fdf85b-3441-4eff-87fe-5ce08f6a247d": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 15
+                }
+            },
+            "6f849abc-b083-47ef-8af6-11b2b3ef799f": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 15
+                }
+            },
+            "32416dad-c312-47f0-8699-4abc75e1ecb9": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 15
+                }
+            },
+            "99da17bf-ea74-4dcf-86bf-a7b510c9a6d2": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 15
+                }
+            },
+            "e9751716-65df-42b4-9d4a-e6041af59756": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 15
+                }
+            },
+            "34799724-6371-46bb-8c8c-5b58966491c3": {
+                "enter_date_dd_mm_yyyy_action": {
+                    "ema": 0.0,
+                    "count": 15
+                }
+            },
+            "b85812e6-f1b5-405e-b9dd-bd233404479b": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 15
+                }
+            },
+            "9c7d1869-a075-404a-bba3-6e6b568d9e84": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 15
+                }
+            },
+            "d2a08c47-ffdc-4e94-b12f-87e65eb1e32b": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 15
+                }
+            },
+            "fd2f659a-91cd-4e43-9892-d476cb600785": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 15
+                }
+            },
+            "2dabb1a7-bbb2-4f48-93ff-7046bac9bb92": {
+                "manual": {
+                    "ema": 7.000000000000002,
+                    "count": 5
+                }
+            },
+            "745a8473-764b-4ffc-b32a-bf934b287a9c": {
+                "ocr_captcha": {
+                    "ema": 0.0,
+                    "count": 15
+                }
+            },
+            "0e16e187-42f9-4769-8770-c56241840830": {
+                "enter_ocr_result": {
+                    "ema": 0.0,
+                    "count": 14
+                }
+            },
+            "fe309c49-eb47-4bdf-8739-4508d2c1ecee": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 14
+                }
+            },
+            "3df3a2f9-11da-476c-ab0d-ad3e84183610": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 14
+                }
+            },
+            "cc80651e-9732-47fd-bc41-36dfefb42c13": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 14
+                }
+            },
+            "5142acfb-f62a-4759-87d2-5d1377863368": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 11
+                }
+            },
+            "66068d07-c725-4c59-b97a-0f930733b4d4": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 11
+                }
+            },
+            "dfc7d1f8-58b3-4910-a791-fbb26df7faa8": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 11
+                }
+            },
+            "f6e7d667-8930-4358-97d9-057e61e463e2": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 11
+                }
+            },
+            "8274b1ce-c292-4fdc-846f-5282eb8c020e": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 11
+                }
+            },
+            "42dec1dd-07dc-4836-af57-ccec6e926eeb": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 11
+                }
+            },
+            "fd059143-0038-4f21-9af8-ec26ef543a33": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 10
+                }
+            },
+            "eb0ef5d4-827f-4156-b29d-759f2d1dc178": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 10
+                }
+            },
+            "0c2d85fe-39c1-4757-9c66-414fc256a884": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 10
+                }
+            },
+            "5b35d9b4-9b90-4c7e-a63f-a3b635320569": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 10
+                }
+            },
+            "368143fb-cb9b-4424-9a47-29d0cdb86ead": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 10
+                }
+            },
+            "718735aa-f8c2-44b3-aa2c-31ce8eafff99": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 10
+                }
+            },
+            "8a08b58d-8029-4241-8a57-95a5c088bd34": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 10
+                }
+            },
+            "65c231df-c4fd-4d71-86c2-fd545b04c3ae": {
+                "enter_date_dd_mm_yyyy_action": {
+                    "ema": 0.0,
+                    "count": 10
+                }
+            },
+            "aa59aea9-699c-4270-a7be-cd9821563642": {
+                "enter_date_dd_mm_yyyy_action": {
+                    "ema": 0.0,
+                    "count": 10
+                }
+            },
+            "464bcc7c-5114-4d91-8f37-e84fa2b3122c": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 10
+                }
+            },
+            "a37f0545-abb4-4752-b3d7-0c479323a19e": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 10
+                }
+            },
+            "1c55e7e1-57f0-4b46-a8bc-edf78037d8d9": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 10
+                }
+            },
+            "53f66446-35fe-4628-b9cf-6037884a8bd8": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 10
+                }
+            },
+            "b67adf6f-b806-4980-baf9-9aa7e84fa51d": {
+                "enter_date_dd_mm_yyyy_action": {
+                    "ema": 0.0,
+                    "count": 10
+                }
+            },
+            "74964c36-c56b-411f-864d-830c1373546b": {
+                "force_date_injection_5days_action": {
+                    "ema": 0.0,
+                    "count": 9
+                }
+            },
+            "fee99640-cdf0-4044-959f-844c9e3c218a": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 8
+                }
+            },
+            "0b93eef0-735a-4cbd-abb4-c7619941e64a": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 8
+                }
+            },
+            "2f6168fc-5ac5-4b73-b3ff-87198b415412": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 8
+                }
+            },
+            "2e6a0108-e3bc-43ed-ad3a-65299184fc13": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 8
+                }
+            },
+            "e1aeb1a9-5831-4e1d-9bf3-f6a518b1565c": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 8
+                }
+            },
+            "c0c8a121-4248-429d-b246-b8c7dabd8995": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 8
+                }
+            },
+            "31a207de-a1be-406b-8a09-73c9cb009611": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 8
+                }
+            },
+            "6bbd29c1-1f64-4a16-80a9-93306295de97": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 8
+                }
+            },
+            "0f5e39eb-d0bd-4a16-8b7b-ee2df7a4088a": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 8
+                }
+            },
+            "6585188b-60ee-4205-8559-e0f9096a9a51": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 8
+                }
+            },
+            "bea0c574-22c8-4b9b-bff7-5ee063d11de5": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 8
+                }
+            },
+            "df7ef853-4079-4c24-89bf-67d055874ac3": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 8
+                }
+            },
+            "f0a28de1-321f-440c-af61-180848bb8ee6": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 8
+                }
+            },
+            "a5a09455-8384-4c8c-b365-18752d22e6f4": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 8
+                }
+            },
+            "fa1af6e5-53b4-4b8c-8b3a-98b08765856f": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 8
+                }
+            },
+            "015bc34b-5a7c-4cd0-b915-74423a3f8c1d": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 8
+                }
+            },
+            "2dff0445-bca7-4990-a400-a5016ed55b67": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 8
+                }
+            },
+            "e8f58ec8-a740-43a4-b6f8-28642b298270": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 8
+                }
+            },
+            "f2327298-8d98-4654-900d-72e1e11cfdb2": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 8
+                }
+            },
+            "e211c77b-ef51-4128-9b4f-70a5606a1121": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 8
+                }
+            },
+            "67efdeeb-fe49-4a59-95bc-75844c5b9ace": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 8
+                }
+            },
+            "53503d65-bab9-47c8-96e2-fe07078d3d4b": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 8
+                }
+            },
+            "449f4177-502a-4f29-a96c-5021b7cc4f78": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 8
+                }
+            },
+            "bc7e4964-8bdd-4b83-9f8c-e4b788aa76a2": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 8
+                }
+            },
+            "3436628a-212e-4222-a872-831b436f00a6": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 8
+                }
+            },
+            "58688a7a-3f9d-4131-875e-688e1929556a": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 8
+                }
+            },
+            "3df93e1a-6649-40e3-9c28-80fe854a4370": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 8
+                }
+            },
+            "e6e9d0c5-d4df-4569-9b21-08ae236df3fd": {
+                "click": {
+                    "ema": 0,
+                    "count": 1
+                },
+                "test": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "4898fb50-428e-44f7-9ec1-a2bc7336a46a": {
+                "manual": {
+                    "ema": 7.000000000000002,
+                    "count": 5
+                }
+            },
+            "375a7672-8b67-4fb9-b3eb-98f0a603f329": {
+                "select_country_two_steps": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "9ee2711b-45a7-4ffa-93d1-85117bb5b38b": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "3b589dc3-a0b9-492c-98bf-75fd554bd1b1": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "a22804b6-7141-4ed6-a964-f7d03bdb45d1": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "2b32772e-495c-419d-89fd-3a3df7605c0e": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "3bf15cb2-6c19-4c09-a471-8cf6e37517cc": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "cebc295a-9aaf-4074-9d79-90c56dda9e4e": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "4f7eb8b6-03db-47c9-8de3-e32ba500f0d6": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "878ffb65-2584-49bf-9b7f-58322ea71911": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "b9b85c66-46af-4370-9aec-a05c4d5e140c": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "5e3bce1b-b5ef-49e6-a1ac-7888314efce3": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "4d605d14-d379-4245-a65e-bf4c40d4e837": {
+                "click": {
+                    "ema": 5.6000000000000005,
+                    "count": 2
+                }
+            },
+            "477d8cd2-3aa2-4acc-bc28-4957f09231e8": {
+                "click": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "0b2891e5-1af9-47bf-8f89-a4463886d805": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 3
+                }
+            },
+            "81ccbcb1-22ea-4ab1-af3e-f1987f03d2c1": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 3
+                }
+            },
+            "33aca4dc-4304-43a1-859c-4af373dbd4ed": {
+                "click": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "753131c6-a7cb-4f41-a8ab-b9c738e07e40": {
+                "click": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "34297c9d-8e7f-4574-b6e0-d08526bfbd09": {
+                "click": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "2b5ae26a-0d98-4174-98f5-14dec98f438c": {
+                "click": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "50fcb145-1ac5-4788-8f18-4ef41d30f28d": {
+                "click": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "9c13193d-c6f0-4d20-aaf1-12ac0406267a": {
+                "click": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "3177c5fd-901d-41ac-baed-bbfefd7acfde": {
+                "click": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "02ab5010-8d9a-4bfa-bcfb-9b1f34aeda5a": {
+                "safe_action": {
+                    "ema": 7.0,
+                    "count": 1
+                }
+            },
+            "223f20bc-432f-4d33-b33b-5d43b71b6d6a": {
+                "manual": {
+                    "ema": 7.000000000000002,
+                    "count": 5
+                }
+            },
+            "26fdda44-4cf5-49d4-9284-275710616251": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 5
+                }
+            },
+            "630a04e0-1308-478f-9edc-f4fb11d00de6": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 5
+                }
+            },
+            "626a7eb2-eb9b-427a-9df7-33143eb73f02": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 5
+                }
+            },
+            "be0ea2ad-b065-4f65-a064-2a2d917111a0": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 5
+                }
+            },
+            "0525e29b-5326-45a5-b539-27f696f0b59a": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 5
+                }
+            },
+            "38868e72-d96b-437e-8dce-31783ee4ecd6": {
+                "enter_date_dd_mm_yyyy_action": {
+                    "ema": 0.0,
+                    "count": 5
+                }
+            },
+            "9be82c95-fd39-42ea-b7ab-f6a8b1cdd254": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 5
+                }
+            },
+            "19d09f9c-31b2-4a84-a4a4-9be2f7fc7d39": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 5
+                }
+            },
+            "80153f42-48f3-4da5-9ed2-84cdbc0a844a": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 4
+                }
+            },
+            "d181ad41-60a3-447f-b3ef-2dc466f7752d": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 4
+                }
+            },
+            "6c6e8ae4-7541-4b35-84bf-97c1409c9868": {
+                "force_date_injection_5days_action": {
+                    "ema": 0.0,
+                    "count": 4
+                }
+            },
+            "0e01b8d3-2469-4d67-a380-893ce2e3515c": {
+                "ocr_captcha": {
+                    "ema": 0.0,
+                    "count": 4
+                }
+            },
+            "591930fb-9fa6-458b-a4cd-7b7257df0d3d": {
+                "enter_ocr_result": {
+                    "ema": 0.0,
+                    "count": 3
+                }
+            },
+            "ee6f3aa9-5686-4998-bdd6-24f41bfccd3d": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 3
+                }
+            },
+            "205533eb-02de-4d58-bc5d-5e379a4f26ed": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 3
+                }
+            },
+            "89f8aeca-577a-443c-9d0e-6472ce964630": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 3
+                }
+            },
+            "65964db4-eec4-4a8b-bf76-29a2cca5d86f": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 3
+                }
+            },
+            "bd0068f7-20d2-4900-b846-85654494eb4f": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 3
+                }
+            },
+            "3bb7312f-67c5-4061-83d3-05b73c4e1f9d": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 3
+                }
+            },
+            "9a822d13-79b2-45e6-95a5-b58411a6e5ea": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 3
+                }
+            },
+            "3d7f8ba5-0fc3-432c-95fa-63953c69620f": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 3
+                }
+            },
+            "b245ab94-8181-42cc-9026-5fe747ec46c7": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 3
+                }
+            },
+            "57e0c3e7-e6ad-4b39-92ad-b39e5c38407c": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 3
+                }
+            },
+            "d7a44f82-4094-4952-8dd6-1ad4d04c5aa5": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 3
+                }
+            },
+            "39494852-ba0c-4af7-93d0-20ed2686a96c": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 3
+                }
+            },
+            "ab9acbd6-bbb7-4bdb-b2a4-c509a8514dcd": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 3
+                }
+            },
+            "7d683548-40f1-45c5-ac03-232e45d35ff9": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 3
+                }
+            },
+            "3d4f5665-f23b-4ced-993c-ea64ad0a1cbd": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 3
+                }
+            },
+            "33118a2d-d583-4d89-9d35-e253b8a2e19e": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "4683ad5c-b7fb-4a52-a1cf-b3b2ec02e19a": {
+                "enter_date_dd_mm_yyyy_action": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "cd70e39d-263e-4c02-b709-767475581ef3": {
+                "enter_date_dd_mm_yyyy_action": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "29801b02-4b40-4c71-8347-96987775a887": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "1eba94e5-e484-472a-9163-210ec6f689d9": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "e96c80eb-1570-4849-a926-e5bfb4a34e01": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "6971c1c1-163c-4318-9a97-e0a293aaf639": {
+                "enter_date_dd_mm_yyyy_action": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "443e9bb0-b8ce-43d4-8b54-35ea691b7077": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "5db78473-4cd2-401c-ad41-c4176d53d1f2": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "20fcf41f-5826-45d9-bab8-cc85de9ec4d4": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "d56e88d1-bed6-41e1-bf44-4770de6830e8": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "735ae7b9-8d02-451c-a3a3-a4b241f00cfc": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "3a044579-23f7-4870-91d9-6497ef38b563": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "5c64b5ab-74c6-423e-8b55-0e7b32aed967": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "bca76c29-c89f-4f2a-b9a8-3f59d6c5a6d6": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "72ae9c20-11e8-42e0-97a3-be7cc677dd5c": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "bf910336-2130-4d62-907b-20719605763a": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "99ad9551-196e-4876-9294-e214f697be0e": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "305e98e3-baf0-451c-acf2-354de107d5f2": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "3b23190a-939f-4c2b-ba8a-5bf3072460de": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "537008bb-21a6-450c-ba98-3712f3e31470": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "d894e9b6-23cd-46ab-95f6-e9bccfab72c3": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "30e32d28-528a-4d00-9f07-c5ce27490eee": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "c8e2b53b-f6d5-4876-98e1-ce8bdc5e3ed5": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "b6c4724e-3792-4952-8512-8cfb7c4f6b4f": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "ad38565f-e117-4723-9142-39feb1240db9": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "658ba1bc-39cc-47a4-8eaf-6fa180ec18fa": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "ea41aad7-c5e0-4da0-8723-de534b8a9ef7": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "5ecf90fb-5443-4494-9ace-5315d22d8869": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "0891ac54-9c74-4c4d-9dd9-697a6443ed49": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "e2375dad-e8a5-4fb8-9a7d-7e6d2d8c5c49": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "ce069ae8-2e88-4d22-9f47-da5efef63acf": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "b5e6db72-ddd7-4b8c-a2c6-41f4a57f556a": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "90f5e9e0-a366-4940-96b7-5cb7480c2589": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "2f8c9ecc-1242-4fe0-80a2-1c37bdddd0f0": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            }
+        }
+    },
+    "936fe137-fd02-4209-9ad7-513a21d72dad": {
+        "click_safe_area": {
+            "ema": 7.0,
+            "count": 1
+        }
+    },
+    "ce6d488a-d6a3-4297-9ef9-43ec0e6a3376": {
+        "click_safe_area": {
+            "ema": 7.0,
+            "count": 1
+        }
+    },
+    "aefd9719-4898-4c43-a165-27a3adbb4542": {
+        "dismiss_modal": {
+            "ema": 7.0,
+            "count": 1
+        }
+    },
+    "fa48f982-75c7-4240-8e31-25b2c1bef828": {
+        "manual": {
+            "ema": 5.819200000000001,
+            "count": 5
+        }
+    },
+    "4b9e3b1c-39ef-41c1-84f7-854ca83b9e97": {
+        "form_name": "INDIA 30 DAYS",
+        "steps": {
+            "2c9ce82b-d779-4227-96ec-bd80b6b435b9": {
+                "goto": {
+                    "ema": 7.000000000000002,
+                    "count": 8
+                }
+            },
+            "2469bcea-d7c4-42af-9abb-2b424fe9073c": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 6
+                }
+            },
+            "dc13777d-5447-42c2-bc7f-95581328d940": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 4
+                }
+            },
+            "60379c4e-a6f0-4bb7-9142-ae4e8b09c548": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 3
+                }
+            },
+            "794eeab4-f9df-41ad-9e92-4395bc7db6b5": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 3
+                }
+            },
+            "437eb878-a20c-4650-b102-3d820bd730fd": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 3
+                }
+            },
+            "804e5938-eea1-4a4e-8c9e-2a181f4bb31c": {
+                "manual": {
+                    "ema": 7.000000000000001,
+                    "count": 2
+                }
+            },
+            "013b7553-8311-458f-abab-36dca0c291a7": {
+                "enter_date_dd_mm_yyyy_action": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "2c6e2538-3fe5-4c3d-bae6-26b4214e035c": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "c4b1ada6-3f14-492c-b024-1a77e2e8ff17": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "2fd9ad9b-8ebf-4c0f-b756-fd9208ae7c9e": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "3a12009a-6df8-42a7-a53d-4b3070167333": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "eb3d8078-355c-4383-a770-ec199266297f": {
+                "force_date_injection_5days_action": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "717e29b5-a75e-4360-9e97-2d26b7b67ffe": {
+                "ocr_captcha": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "14a37ca4-7042-446d-9e52-cd71f637179e": {
+                "enter_ocr_result": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "440836e6-586d-4321-8643-dcd99c44b35c": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "4220c476-2cdf-49fd-bdff-3ec58128592a": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "0dca3cd1-bde8-4099-b6d9-63809fc41ff3": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "8ae5d884-d5d6-4029-b842-13c9c1808638": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "caf38cd8-a26f-4859-b3ca-2b0fa384fb1b": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "6500061b-68b6-40c8-baa9-16aa8fe8577f": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "79dc14a7-b995-46e0-a0b3-2129c0363c4f": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "fafd5ed8-fdf7-40ab-96e9-62e247c41afc": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "2ff521d5-aef7-4785-a7d6-638ccaa98e60": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "1842303f-8e75-4666-a5a2-73876620e924": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "479b028b-6eaa-4638-84bd-d2efa93749c9": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "1a10da5f-7f39-4e8b-8a17-9e6c9cf37356": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "7fe41463-b5c7-4fe9-9372-d4895fdabe03": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "ddf8aee4-db5e-4293-8f15-95fd723f341d": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "4a49629e-93bf-48c1-bdee-f88e83b72f4b": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "34574eb6-bb1a-49da-ac2a-1fde85cf1b5a": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "ab567c3d-0d38-4eef-8fb1-cd8ab526a450": {
+                "enter_date_dd_mm_yyyy_action": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "fba15f83-f001-44d5-ad43-62ea995fb5f0": {
+                "enter_date_dd_mm_yyyy_action": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "203317d4-0cbd-4a4e-960b-1731d32ae2d4": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "6eade6da-e0ba-4adc-a040-184eb8ecc273": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "40211348-86de-4ad7-bae1-65babf26befa": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "74d6267a-88ca-4fde-aae0-eecb2acdbf53": {
+                "enter_date_dd_mm_yyyy_action": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "151c0a4f-add9-4446-96d1-d29ee91ac0c5": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "2872f1d2-0e99-4105-abef-74d3a0deedd0": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "0cd3c012-dba0-47b5-a91b-8503b847efcc": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "0ac0132e-25d5-4fe3-9e94-5b4ac22552b5": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "e9465ba5-4aa0-4cdb-9249-2b3441362034": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "da52cd70-16d9-4ad0-b256-79486da06c19": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "9dd28f53-e70c-4484-9abf-10e1bbdd1a74": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "c53bc189-47a5-4c01-b6f1-e4d2bc028e3d": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "5940d742-fe64-43ed-af1d-821a4858095b": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "a282e974-2896-42d6-a885-b20c93598751": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "ea78e6ba-a04a-4006-a56c-3ad5b37d485b": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "4cad3d15-0342-483a-90bb-be73a94da455": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "47a2ce9c-ef8d-4030-ac78-36d0930c511f": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "a7fdd559-69d4-4a1a-948b-cf13602d8e59": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "ccdf6908-1dcd-44b2-b682-18c97b0e2c0c": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "1a273407-61b6-4c34-aa9e-bb7dd8db13ff": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "a533ff3a-6f22-4c5c-94e1-43ee0fa3b84f": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "6c99ad70-8e21-44f7-9efd-6f7433d9a95e": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "ce2ffc54-e657-447e-9886-3cce4103ba0a": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "77c60f04-6829-4f6d-8505-a8e12106dd68": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "50104aab-6e3e-456e-a449-fd3d2ef9bc7a": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "0b7ac8c0-1d79-4c8e-acfa-ed6d7079109b": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "3712cdf1-5d5d-4dfc-90d6-0fb0af41daeb": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "27a24eeb-0077-404d-8358-d72658fe546f": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "be7e1f34-cb94-4b07-a55a-19c16012fb9f": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "150249c4-7894-4294-9bff-9d80dad5abc0": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "66a8e321-6669-4b1f-a5ee-ce20fb2aa2ed": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "c4653461-6b82-405a-8187-fce25779694a": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "dcd4f715-e669-4f91-9e98-77064c5be199": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "6c28676e-d9d7-40b2-9daf-1c748447c6fb": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "edaca9cb-5967-4237-83b2-4e186d47d010": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "4c774e1a-1715-44e3-9432-b0d4367a59cf": {
+                "manual": {
+                    "ema": 7.000000000000001,
+                    "count": 2
+                }
+            }
+        }
+    },
+    "94fdf85b-3441-4eff-87fe-5ce08f6a247d": {
+        "click": {
+            "ema": 0.0,
+            "count": 5
+        }
+    },
+    "6f849abc-b083-47ef-8af6-11b2b3ef799f": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 5
+        }
+    },
+    "32416dad-c312-47f0-8699-4abc75e1ecb9": {
+        "click": {
+            "ema": 0.0,
+            "count": 5
+        }
+    },
+    "99da17bf-ea74-4dcf-86bf-a7b510c9a6d2": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 5
+        }
+    },
+    "e9751716-65df-42b4-9d4a-e6041af59756": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 5
+        }
+    },
+    "34799724-6371-46bb-8c8c-5b58966491c3": {
+        "enter_date_dd_mm_yyyy_action": {
+            "ema": 0.0,
+            "count": 5
+        }
+    },
+    "b85812e6-f1b5-405e-b9dd-bd233404479b": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 5
+        }
+    },
+    "9c7d1869-a075-404a-bba3-6e6b568d9e84": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 5
+        }
+    },
+    "d2a08c47-ffdc-4e94-b12f-87e65eb1e32b": {
+        "click": {
+            "ema": 0.0,
+            "count": 5
+        }
+    },
+    "fd2f659a-91cd-4e43-9892-d476cb600785": {
+        "click": {
+            "ema": 0.0,
+            "count": 5
+        }
+    },
+    "745a8473-764b-4ffc-b32a-bf934b287a9c": {
+        "ocr_captcha": {
+            "ema": 0.0,
+            "count": 6
+        }
+    },
+    "0e16e187-42f9-4769-8770-c56241840830": {
+        "enter_ocr_result": {
+            "ema": 0.0,
+            "count": 6
+        }
+    },
+    "2dabb1a7-bbb2-4f48-93ff-7046bac9bb92": {
+        "manual": {
+            "ema": 7.0,
+            "count": 1
+        }
+    },
+    "fe309c49-eb47-4bdf-8739-4508d2c1ecee": {
+        "click": {
+            "ema": 0.0,
+            "count": 6
+        }
+    },
+    "3df3a2f9-11da-476c-ab0d-ad3e84183610": {
+        "click": {
+            "ema": 0.0,
+            "count": 6
+        }
+    },
+    "cc80651e-9732-47fd-bc41-36dfefb42c13": {
+        "click": {
+            "ema": 0.0,
+            "count": 6
+        }
+    },
+    "670c9b7f-4089-4560-9043-cb0b781ccf6a": {
+        "enter_date_custom_dialog_action": {
+            "ema": 0.0,
+            "count": 15
+        }
+    },
+    "f5827e47-868c-48dc-8417-9f2de86d0365": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 15
+        }
+    },
+    "e96aaf58-61b8-4946-9f39-0697f8a1bcda": {
+        "enter_date_custom_dialog_action": {
+            "ema": 0.0,
+            "count": 15
+        }
+    },
+    "b7845dcb-a83b-4061-b216-e5718be5fca6": {
+        "enter_date_custom_dialog_action": {
+            "ema": 0.0,
+            "count": 15
+        }
+    },
+    "b1a19b5e-6bf9-46b1-9279-5fa2c38d5ac3": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 15
+        }
+    },
+    "94eada8a-dcda-4d9d-afef-f68d163e2f7d": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 15
+        }
+    },
+    "b05fc015-8939-452d-8c36-a8634c369064": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 15
+        }
+    },
+    "70187b10-46b2-4b5b-9af7-97fa7fc43775": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 15
+        }
+    },
+    "af3e660a-6818-4ef6-9cdb-47503a59e30b": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 15
+        }
+    },
+    "3c648a7f-cb64-4735-a234-35e70714dedc": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 15
+        }
+    },
+    "ddac73b4-bf7b-4036-a808-3d8e3cb2d19b": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 15
+        }
+    },
+    "b42c2f01-8258-407f-a4be-50b2a3b0c6c3": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 15
+        }
+    },
+    "490165fa-8d3d-490d-baf0-634f4e51dfcc": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 15
+        }
+    },
+    "f1633c73-c65b-4e1e-9041-092eba2c3732": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 15
+        }
+    },
+    "430c8fdf-89cf-46e7-9711-f70c30c6414f": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 15
+        }
+    },
+    "54af7f7b-f03a-49f6-84ec-df0b97729622": {
+        "click": {
+            "ema": 0.0,
+            "count": 15
+        }
+    },
+    "a292963d-feb4-45cd-8190-596c871a7a46": {
+        "click": {
+            "ema": 0.0,
+            "count": 15
+        }
+    },
+    "bfb85f34-0a24-4150-979c-2828dc816f0e": {
+        "click": {
+            "ema": 0.0,
+            "count": 15
+        }
+    },
+    "ced2a3bd-6c3e-40a1-8b2f-b24ea6e6bdab": {
+        "click": {
+            "ema": 0.0,
+            "count": 15
+        }
+    },
+    "e9424b38-a802-4a48-9440-ef93e26287f9": {
+        "click": {
+            "ema": 0.0,
+            "count": 15
+        }
+    },
+    "7e94c8a8-c3de-4dc9-9a01-79fbe971e4fb": {
+        "manual": {
+            "ema": 5.0879609302220805,
+            "count": 15
+        }
+    },
+    "c0996026-26bc-4a8d-959b-c99e803d70cb": {
+        "click": {
+            "ema": 2.2135793459200004,
+            "count": 15
+        }
+    },
+    "2e5957ee-1e5e-4fcb-b259-7632b2e0b75a": {
+        "manual": {
+            "ema": 5.214748364800001,
+            "count": 11
+        }
+    },
+    "3519fe3a-bb3e-4053-a38e-3835ba06fb05": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 14
+        }
+    },
+    "47c3ef09-4608-44f8-b67a-d0b16ec26d6f": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 14
+        }
+    },
+    "034e733b-f05d-407f-a8a9-3a589b61a8f4": {
+        "manual": {
+            "ema": 5.0,
+            "count": 14
+        }
+    },
+    "5142acfb-f62a-4759-87d2-5d1377863368": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 6
+        }
+    },
+    "66068d07-c725-4c59-b97a-0f930733b4d4": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 6
+        }
+    },
+    "dfc7d1f8-58b3-4910-a791-fbb26df7faa8": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 6
+        }
+    },
+    "f6e7d667-8930-4358-97d9-057e61e463e2": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 6
+        }
+    },
+    "8274b1ce-c292-4fdc-846f-5282eb8c020e": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 6
+        }
+    },
+    "fd059143-0038-4f21-9af8-ec26ef543a33": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 6
+        }
+    },
+    "eb0ef5d4-827f-4156-b29d-759f2d1dc178": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 6
+        }
+    },
+    "0c2d85fe-39c1-4757-9c66-414fc256a884": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 6
+        }
+    },
+    "5b35d9b4-9b90-4c7e-a63f-a3b635320569": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 6
+        }
+    },
+    "368143fb-cb9b-4424-9a47-29d0cdb86ead": {
+        "click": {
+            "ema": 0.0,
+            "count": 6
+        }
+    },
+    "718735aa-f8c2-44b3-aa2c-31ce8eafff99": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 6
+        }
+    },
+    "8a08b58d-8029-4241-8a57-95a5c088bd34": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 6
+        }
+    },
+    "65c231df-c4fd-4d71-86c2-fd545b04c3ae": {
+        "enter_date_dd_mm_yyyy_action": {
+            "ema": 0.0,
+            "count": 6
+        }
+    },
+    "aa59aea9-699c-4270-a7be-cd9821563642": {
+        "enter_date_dd_mm_yyyy_action": {
+            "ema": 0.0,
+            "count": 6
+        }
+    },
+    "464bcc7c-5114-4d91-8f37-e84fa2b3122c": {
+        "click": {
+            "ema": 0.0,
+            "count": 6
+        }
+    },
+    "a37f0545-abb4-4752-b3d7-0c479323a19e": {
+        "click": {
+            "ema": 0.0,
+            "count": 2
+        }
+    },
+    "1c55e7e1-57f0-4b46-a8bc-edf78037d8d9": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 2
+        }
+    },
+    "53f66446-35fe-4628-b9cf-6037884a8bd8": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 2
+        }
+    },
+    "85a1d222-8826-43a2-afb3-3a3484caf4da": {
+        "enter_text": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "b67adf6f-b806-4980-baf9-9aa7e84fa51d": {
+        "enter_date_dd_mm_yyyy_action": {
+            "ema": 0.0,
+            "count": 2
+        }
+    },
+    "1e9aecac-72ed-4cd2-87c8-490f6bb13bfb": {
+        "click": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "24587d8a-78a4-4445-803d-10fbf626bb3c": {
+        "select_option": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "344ddc6e-4807-4833-b6a4-e690816a5690": {
+        "select_option": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "0240aeb6-0085-484c-bed2-95c787d62661": {
+        "click": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "ee5fce25-a3bb-47a4-8c38-e40e3707966c": {
+        "click": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "2c26034e-e419-4078-83b1-5a5f6e9de1b6": {
+        "click": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "9500d872-9614-4e2f-aa0d-f57cdfeb794f": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 92
+        }
+    },
+    "3ced28b3-891a-40fe-9c7d-cb266ade108e": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 92
+        }
+    },
+    "c9d2fff6-ec04-4362-b126-163f05565e92": {
+        "click": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "566d5ce8-186c-44a9-b0d1-0d9d692be06b": {
+        "click": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "7d4d8bf6-94a1-48ed-8124-1d10a4142868": {
+        "click": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "3aec94a1-5454-4b39-85c7-ad0323a35720": {
+        "click": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "8ba4949c-ce18-451a-986f-d2699bfff044": {
+        "click": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "be70f9b1-0434-4ab0-82cc-52addd8dfe55": {
+        "click": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "88cc436b-9d60-4fbc-ba9e-f67f2703ca76": {
+        "manual": {
+            "ema": 7.0,
+            "count": 1
+        }
+    },
+    "70432a4e-5655-40c7-ad7e-db5294029e8d": {
+        "click": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "55866e76-8cff-4745-b5d9-a8064491dcf5": {
+        "manual": {
+            "ema": 5.000000003035421,
+            "count": 92
+        }
+    },
+    "f09487cb-3208-4de8-9d0b-6331b0fffc8f": {
+        "manual": {
+            "ema": 5.000000003035421,
+            "count": 92
+        }
+    },
+    "00d7a9e5-2874-4a52-bc60-02a610022d48": {
+        "click": {
+            "ema": 0.32768000000000014,
+            "count": 92
+        }
+    },
+    "fdeda83c-1941-47d5-8536-e0ea5288f96d": {
+        "click": {
+            "ema": 0.1678278919845632,
+            "count": 91
+        }
+    },
+    "c467e336-7a4a-4bcd-9a98-d226e42d8daa": {
+        "click": {
+            "ema": 0.0,
+            "count": 87
+        }
+    },
+    "4c64793c-a313-4f28-97b1-e3dddd158690": {
+        "click": {
+            "ema": 0.0,
+            "count": 87
+        }
+    },
+    "778bbd75-487e-46f0-81b3-e4e9d303cf18": {
+        "click": {
+            "ema": 0.0,
+            "count": 87
+        }
+    },
+    "e6d9a1ba-4808-4c0f-898f-d6e880b05d0d": {
+        "click": {
+            "ema": 0.6357378779724364,
+            "count": 87
+        }
+    },
+    "86aaca25-57a6-44c8-a9ae-4853c99e061f": {
+        "manual": {
+            "ema": 5.000000018092515,
+            "count": 84
+        }
+    },
+    "8fbcfdf0-fd43-406b-9283-64e116c2dd61": {
+        "click": {
+            "ema": 0.0,
+            "count": 84
+        }
+    },
+    "a32b56f6-4703-462c-a601-ddc6573fe7cb": {
+        "manual": {
+            "ema": 5.000000018092515,
+            "count": 84
+        }
+    },
+    "482aa649-77cf-4372-8e9a-93af75896868": {
+        "manual": {
+            "ema": 5.000000018092515,
+            "count": 84
+        }
+    },
+    "9c6b0d88-5a47-4e23-a411-2fbaddf60716": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 84
+        }
+    },
+    "1030e39d-424c-40fd-a61f-be499d798049": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 84
+        }
+    },
+    "b3d3e83c-05fb-48f9-a710-dfaa9a35cdf4": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 84
+        }
+    },
+    "91b97964-124d-4435-a11c-c45dd52391c9": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 84
+        }
+    },
+    "b4ad4cde-2bc4-44d9-a9db-aa6e208fb394": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 84
+        }
+    },
+    "b36cd5ae-cce5-4c2e-8d7f-fccf4d726fe3": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 84
+        }
+    },
+    "627a9626-e163-4898-8933-72ff6e87fcdf": {
+        "click": {
+            "ema": 0.0,
+            "count": 84
+        }
+    },
+    "7badd53b-59c3-4547-804f-8879b04a3a88": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 84
+        }
+    },
+    "f3864a21-3a3e-40ac-aba5-74e345fdfed1": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 84
+        }
+    },
+    "78d22e80-20a9-470c-a596-c8dc8f172a77": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 84
+        }
+    },
+    "04c2e9ae-40a1-417e-8acf-b64b6b41f59f": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 84
+        }
+    },
+    "833fb94d-aeee-4ec6-9abd-735698ddb6f5": {
+        "manual": {
+            "ema": 5.000000018092515,
+            "count": 84
+        }
+    },
+    "faf87be8-ccef-4981-8071-8d035193b7a8": {
+        "click": {
+            "ema": 0.0,
+            "count": 84
+        }
+    },
+    "942ea933-a5c4-46b5-a48c-b523d3430279": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 84
+        }
+    },
+    "85d08007-cdeb-4b8b-9809-69798187b8a0": {
+        "click": {
+            "ema": 6.805647338418785e-05,
+            "count": 84
+        }
+    },
+    "b6215ab9-8e17-4488-b777-6442420e84a8": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 83
+        }
+    },
+    "22303f4d-cfd0-46c6-92c7-cd154bf2500a": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 83
+        }
+    },
+    "2b0eac2c-6cd0-4b92-8b20-fcdd831762a6": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 83
+        }
+    },
+    "0e277fce-db00-49de-ae3e-c4f44247b3ab": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 83
+        }
+    },
+    "f94f08ef-e162-4534-a465-5658c2234bd5": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 83
+        }
+    },
+    "b6415afb-e293-43f0-9efb-996f5e90a482": {
+        "click": {
+            "ema": 0.0,
+            "count": 83
+        }
+    },
+    "1214f458-ef39-4fa7-ae02-3c98706e0ca3": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 83
+        }
+    },
+    "c75cec99-bc06-4b84-b304-7240c5a94468": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 83
+        }
+    },
+    "c731cf18-53a3-4c11-bdb3-987a9d0d1196": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 83
+        }
+    },
+    "cd5ac9ff-3acb-4073-a282-cfad256e1d7e": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 83
+        }
+    },
+    "2408c59c-9e26-4d4f-8dba-e9a6e8fe87e0": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 83
+        }
+    },
+    "2346ec01-37e8-4e3f-a383-8ec7ffe265b5": {
+        "click": {
+            "ema": 0.0,
+            "count": 83
+        }
+    },
+    "4e82cecb-c547-48b5-9775-4b2f019d0ce0": {
+        "click": {
+            "ema": 0.0,
+            "count": 83
+        }
+    },
+    "8e4b19f1-e910-4b2d-a62d-548f6457e823": {
+        "click": {
+            "ema": 0.0,
+            "count": 83
+        }
+    },
+    "0a2655cb-f5d3-48c7-a696-1006e1782064": {
+        "click": {
+            "ema": 0.0,
+            "count": 83
+        }
+    },
+    "4ec11aca-0bdc-4142-b0f0-8d087331574c": {
+        "click": {
+            "ema": 0.0,
+            "count": 83
+        }
+    },
+    "546f49ad-4aed-4899-9e27-a027e9bfe8c0": {
+        "click": {
+            "ema": 0.0,
+            "count": 83
+        }
+    },
+    "39e48cef-c016-4175-a150-aef1369fe1b3": {
+        "click": {
+            "ema": 0.0,
+            "count": 83
+        }
+    },
+    "874d78e9-436b-4d74-9ae0-7d0ba80f4aeb": {
+        "click": {
+            "ema": 0.0,
+            "count": 83
+        }
+    },
+    "78e59af6-1aab-4067-9a92-6992d941bcb2": {
+        "click": {
+            "ema": 0.0,
+            "count": 83
+        }
+    },
+    "22d46885-03cf-4f76-9440-63f54467f4c9": {
+        "click": {
+            "ema": 0.0,
+            "count": 83
+        }
+    },
+    "59c8f6e5-1101-44cc-8c3e-df5d6f7b37f6": {
+        "click": {
+            "ema": 0.0,
+            "count": 83
+        }
+    },
+    "16a92381-259c-4faf-98be-456348f1eaa4": {
+        "click": {
+            "ema": 0.0,
+            "count": 83
+        }
+    },
+    "1f0d0689-8ec6-4c1d-bdb5-1105f4471bcd": {
+        "safe_action": {
+            "ema": 5.000000022615644,
+            "count": 83
+        }
+    },
+    "19d50345-466f-4e43-9c70-7d9cb655619a": {
+        "goto": {
+            "ema": 5.0,
+            "count": 105
+        }
+    },
+    "92782b39-b321-42b4-8a27-f3936431545f": {
+        "click": {
+            "ema": 0.0,
+            "count": 104
+        }
+    },
+    "bf43711f-c1e4-420e-8b67-09931692fc07": {
+        "click": {
+            "ema": 0.0,
+            "count": 104
+        }
+    },
+    "ac504440-182e-45b1-8173-2d60c794e605": {
+        "click": {
+            "ema": 0.0,
+            "count": 104
+        }
+    },
+    "858ed08a-09b7-4e7c-896d-c496103d9aad": {
+        "click": {
+            "ema": 0.004722366482869652,
+            "count": 104
+        }
+    },
+    "ba6cf976-e007-44ef-91c8-60b6b9014e20": {
+        "click": {
+            "ema": 0.0,
+            "count": 103
+        }
+    },
+    "36ae1e53-4483-49c5-b082-616a5e1392b8": {
+        "click": {
+            "ema": 0.0,
+            "count": 103
+        }
+    },
+    "d32f6bee-5d20-456b-9389-4be52ab5f2a8": {
+        "click": {
+            "ema": 0.0,
+            "count": 103
+        }
+    },
+    "fbaf3a1e-85ca-4868-8565-72b27c5a374b": {
+        "click": {
+            "ema": 0.0,
+            "count": 103
+        }
+    },
+    "10741132-bd92-40e5-92ee-f79ba8ade261": {
+        "click": {
+            "ema": 0.0002104236638767683,
+            "count": 103
+        }
+    },
+    "23a5b6b5-1685-48d0-85a2-6c74b972292e": {
+        "manual": {
+            "ema": 5.0,
+            "count": 101
+        }
+    },
+    "e2a58939-4f5f-4aa1-b1e6-f529862422bb": {
+        "click": {
+            "ema": 0.07795234353266173,
+            "count": 101
+        }
+    },
+    "51dd1bd7-0743-4f0c-9f49-4e9b1dbfa4dd": {
+        "enter_day_action": {
+            "ema": 0.0,
+            "count": 93
+        }
+    },
+    "356779d0-3a93-496d-a7bd-e81c6b80272e": {
+        "enter_month_action": {
+            "ema": 0.0,
+            "count": 93
+        }
+    },
+    "9391c798-0665-47de-8294-bb5967f1547b": {
+        "enter_year_action": {
+            "ema": 0.0,
+            "count": 93
+        }
+    },
+    "1f39fca9-6e50-4bb6-8840-75d9a4544f5b": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 93
+        }
+    },
+    "ed89e85c-d29f-44da-857a-d61ae89f0285": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 93
+        }
+    },
+    "19858fe7-ef61-487f-89d7-92f5defe50cb": {
+        "form_name": "CANADA ETA",
+        "steps": {
+            "e4a5beb5-4ded-4639-a757-44a955260c10": {
+                "goto": {
+                    "ema": 7.000000000000002,
+                    "count": 6
+                }
+            },
+            "02fd65de-0fcd-42e5-ac57-1560c8744748": {
+                "click": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "6fd14f87-6a38-4ea8-89b2-b98a17a28ba9": {
+                "click": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "50ddfd9f-7a8a-4f09-9b55-60f6e9897eff": {
+                "click": {
+                    "ema": 7.0,
+                    "count": 1
+                }
+            },
+            "474a90c2-7004-4afa-961c-03afa8f6037b": {
+                "click": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "914bca76-5a4f-4150-b13c-ca16b570e580": {
+                "click": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "b33c1f81-fb33-4d6f-8ea9-de4c36dbf803": {
+                "select_option": {
+                    "ema": 7.0,
+                    "count": 1
+                }
+            },
+            "481803d2-8f11-4712-a17f-75662e8d18a2": {
+                "click": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "9d535a59-cc2e-4c09-878a-d5e3c445f187": {
+                "select_option": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "9a0b85d3-bd8f-4fbb-8025-9631dd2f11fc": {
+                "select_option": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "2e21b65d-9508-4c05-8474-d14dff902e77": {
+                "select_option": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "74a326d7-3b1e-47a8-861f-7fc80bd121a1": {
+                "select_option": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "281cf32b-a26d-4024-8886-417f668c99b4": {
+                "enter_text": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "4a4f55fc-11ce-444b-9790-11178297e346": {
+                "enter_text": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "81399138-5ba5-4be0-b978-da1a2596988b": {
+                "enter_text": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "752c227f-f11d-4962-baf5-891be3438ebf": {
+                "enter_text": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "9297f881-e02f-4e6d-860e-ffd815d3efc4": {
+                "enter_year_action": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "7fe55df0-ec28-4708-9989-42908afa891c": {
+                "enter_month_action": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "b95dd854-22c0-4b23-a98d-c08e01b74d7b": {
+                "enter_day_action": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "bc0b0f8f-3c02-44bf-b0b2-d6f4a1dc20e7": {
+                "select_option": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "b6d1fa65-334a-4bff-a3f4-df53179a084e": {
+                "select_option": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "0edc73f8-a683-4939-b48a-feb214b2823f": {
+                "enter_text": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "6a255173-a387-42f1-b2ad-e346d1aa23ad": {
+                "enter_year_action": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "15fd0373-798a-425e-bb15-53cf7f5214bd": {
+                "enter_month_action": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "4e31f8ab-989b-4ce4-92f9-2709b8dd2be4": {
+                "enter_day_action": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "fa7fb2ce-f495-418e-bfb7-9c2106be8b18": {
+                "enter_year_action": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "55646eb2-fae4-4f01-81ed-cd2f3767cabb": {
+                "enter_month_action": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "4c810a64-2343-4559-9d25-ffa057b8f1e3": {
+                "enter_day_action": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "12346603-d020-48df-b2b8-861227696220": {
+                "manual": {
+                    "ema": 7.0,
+                    "count": 1
+                }
+            },
+            "4eb22564-f51a-471c-8889-42c967c823d4": {
+                "manual": {
+                    "ema": 7.0,
+                    "count": 1
+                }
+            },
+            "583efe49-40c2-4cf6-ab39-39507d610a91": {
+                "manual": {
+                    "ema": 7.0,
+                    "count": 1
+                }
+            },
+            "7c507829-feda-4eca-a78e-7ee9c000b714": {
+                "select_option": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "7b10f392-fd95-44ce-81d9-2a812f2c95be": {
+                "enter_text": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "3489b628-9183-40d2-8d0a-501aea8ed33e": {
+                "enter_text": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "5ff06a11-f035-4926-86eb-daa10d2a13a3": {
+                "enter_text": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "7809ff93-6dc6-4256-805b-67a6400e87f5": {
+                "enter_text": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "51de66e3-f058-46d1-be74-8d10a7969677": {
+                "enter_text": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "badf2049-0400-41da-ad1d-4bb59e3a2b7d": {
+                "select_option": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "f0657c14-fa46-4166-9d42-94bdb4df6157": {
+                "manual": {
+                    "ema": 7.0,
+                    "count": 1
+                }
+            },
+            "9fc44cfa-ae7d-4785-98a0-5bb2b1e1e545": {
+                "select_option": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "b9d6ae13-17f4-4c11-978a-777461fd0ac9": {
+                "select_option": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "67387bef-99a9-46e0-bab8-5f829a917514": {
+                "select_option": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "9cbcfca5-efc6-4b66-a046-48ce43b7b152": {
+                "select_option": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "e52f2edc-7b93-4915-9eec-1faac00ab570": {
+                "click": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "7a1c2c1c-66fa-47be-883c-06d017daad08": {
+                "enter_text": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "46dc3eab-40af-497f-8de9-5c6b5530adb6": {
+                "click": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "e9e11d7f-8e19-4cdb-aee5-69f09303d747": {
+                "manual": {
+                    "ema": 7.0,
+                    "count": 1
+                }
+            },
+            "d2624d4a-03f2-43db-84c6-0fb2a95b39a2": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 4
+                }
+            },
+            "eebbac58-2ec6-4fc1-b0d6-7c9644b62033": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 4
+                }
+            },
+            "f1321b4b-ba98-444c-9285-80d1f09ac850": {
+                "click": {
+                    "ema": 7.000000000000002,
+                    "count": 4
+                }
+            },
+            "cccabdf0-af7a-49d7-90d9-f0874d874650": {
+                "click": {
+                    "ema": 7.000000000000001,
+                    "count": 2
+                }
+            },
+            "24e1c6a2-cf2e-495c-91a8-31855b817acc": {
+                "click": {
+                    "ema": 4.48,
+                    "count": 3
+                }
+            },
+            "6dbf3d60-ffdb-4f88-aab1-80a19ab1ab53": {
+                "click": {
+                    "ema": 7.000000000000001,
+                    "count": 2
+                }
+            },
+            "31680151-4dd2-4419-80a3-4e197adc21a9": {
+                "select_option": {
+                    "ema": 7.000000000000001,
+                    "count": 2
+                }
+            },
+            "546a29e2-9a01-4fe6-b360-975bba4487bc": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "fc357647-9a5b-4672-bf98-df366dede734": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "8e5bc561-973c-4bfb-9dee-01a22c752857": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "5da0dd0d-e3f3-4e9b-b8c9-728046795a46": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "9f42b616-4c6d-468a-8b26-122b74651767": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "7ee958a9-d400-48bc-b600-15bc47752dd6": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "7332065e-6a26-456b-bb12-8c6eed54eb66": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "e224aa43-ee96-4c61-83f6-a4c49db8113c": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "d85ab9a6-00e1-44ee-bd2b-72a6d6db3718": {
+                "click": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "7ac21d28-edcd-4ea1-bde9-4cca8f7af96f": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "9be7dde6-7a0d-45ed-ac66-bc719b1ae3e1": {
+                "click": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "932bcfec-6882-42cb-b16c-8d23af7295ab": {
+                "select_option": {
+                    "ema": 7.000000000000001,
+                    "count": 2
+                }
+            },
+            "27f22966-836e-4e03-bba8-15f08b1733ec": {
+                "click": {
+                    "ema": 5.6000000000000005,
+                    "count": 2
+                }
+            },
+            "3efc52ca-c271-4ee5-ae61-54ddd408d140": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "19b955bb-5c27-4c73-8878-88ee040ff38d": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "efa2ef7c-412e-47d1-b0ec-2997d89c278b": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "1a43b238-c075-400a-b293-ee23bc47abb1": {
+                "select_option": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "979ddb92-833e-497d-87d0-182f79151f59": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "61bf6372-5650-4732-852d-40e7d52b2a54": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "1a20b6dc-6da7-4b21-ace9-b0d9c364a980": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "bd368328-298d-4c2a-8062-35bb54c8efba": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "8fce5e34-e454-4722-bc60-e49590389bca": {
+                "enter_year_action": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "6afdf71b-04ce-45d3-99a1-6d389f691ab4": {
+                "enter_month_action": {
+                    "ema": 0.0,
+                    "count": 2
+                }
+            },
+            "1d5208ed-d6fa-4fa3-ba59-a554547fbf8c": {
+                "click": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "0f9177c5-6b60-45a3-88d6-ad44cc4b5540": {
+                "enter_day_action": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "83c753ae-3052-4136-b79e-e834c982adab": {
+                "select_option": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "a6d32822-7387-46d8-9591-fe4798608d4b": {
+                "select_option": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "7f8e6768-1a22-46a7-abe7-d6ff17bd30ab": {
+                "enter_text": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "d498b75c-03a4-4513-ad5f-8c0945cd4ddb": {
+                "enter_year_action": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "ce6416b5-ab5a-49b4-abaa-11125511a4f6": {
+                "enter_month_action": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "f8800712-5d71-4d95-957f-a287fc107aac": {
+                "enter_day_action": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "05de9091-75ce-4089-9b9b-ecb14678ab6d": {
+                "enter_year_action": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "82b5b3d5-dbd7-4cba-8b51-154ba42c3c65": {
+                "enter_month_action": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "f197074d-2bb3-46fe-bf82-80b11ed2493f": {
+                "enter_day_action": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "42194fe6-6844-4878-9421-b929af664e5d": {
+                "manual": {
+                    "ema": 7.0,
+                    "count": 1
+                }
+            },
+            "426c24d6-b9dd-4bf7-b918-a598a3e82419": {
+                "manual": {
+                    "ema": 7.0,
+                    "count": 1
+                }
+            },
+            "ef81de91-88e8-43d4-9470-4d5515c9c1c1": {
+                "manual": {
+                    "ema": 7.0,
+                    "count": 1
+                }
+            },
+            "edb5374c-62a5-4c75-8ee9-06fd064e44ac": {
+                "select_option": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "c396c988-8e61-4139-a56b-22b31c062e6e": {
+                "enter_text": {
+                    "ema": 0,
+                    "count": 1
+                }
+            }
+        }
+    },
+    "7b03c4bc-c7f6-4cf8-adba-1b00b5b47be3": {
+        "safe_action": {
+            "ema": 7.0,
+            "count": 1
+        }
+    },
+    "0741e36e-483c-4697-99b3-d9b8c4d6a895": {
+        "manual": {
+            "ema": 7.0,
+            "count": 1
+        }
+    },
+    "3772a97b-96e3-4f19-ad7c-f8092a70ceea": {
+        "enter_text": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "88c14aca-9590-4d01-b884-d2f0c3a13a92": {
+        "select_country_two_steps": {
+            "ema": 7.307508186654534e-06,
+            "count": 56
+        }
+    },
+    "6e44693f-ba35-4a4e-a4de-b0ade9934d01": {
+        "click": {
+            "ema": 0.0,
+            "count": 55
+        }
+    },
+    "01140cf9-66c0-4262-8178-a757fcaccf25": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 55
+        }
+    },
+    "81c214ee-f5bf-43ac-898c-bad1117a0fb0": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 55
+        }
+    },
+    "992d8bbd-5fb7-405e-bec9-a33deebf47e4": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 55
+        }
+    },
+    "9ad853df-38c5-42ba-b77c-8afcd1b698d5": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 55
+        }
+    },
+    "c0451996-5e78-43a8-a5eb-c2184938e6db": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 55
+        }
+    },
+    "3301c359-937d-4e86-9149-2d359191c3ad": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 55
+        }
+    },
+    "8aaa5eae-044e-48fb-b8d6-c5bad4e8931c": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 55
+        }
+    },
+    "b02dd3c2-5354-4c59-aa39-3425e5e829b1": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 55
+        }
+    },
+    "56654780-d658-458f-bb57-47a6fbe28208": {
+        "click": {
+            "ema": 0.0,
+            "count": 55
+        }
+    },
+    "e45b0fb4-49c9-4112-bf75-3ff2eb96fa98": {
+        "click": {
+            "ema": 0.0,
+            "count": 55
+        }
+    },
+    "5ddd352e-37d3-4c05-9a5d-75fb78baf26e": {
+        "click": {
+            "ema": 0.0007922816251426447,
+            "count": 55
+        }
+    },
+    "df9e8773-f79c-4c47-8ba1-58ef0fbd4802": {
+        "click": {
+            "ema": 0.0,
+            "count": 54
+        }
+    },
+    "0696e187-e83c-415d-b0aa-522236e00f41": {
+        "click": {
+            "ema": 0.0,
+            "count": 54
+        }
+    },
+    "4aeb6ad1-4b9e-47d7-9a30-3e0cb469b4b5": {
+        "click": {
+            "ema": 0.0,
+            "count": 54
+        }
+    },
+    "ec294790-ecf9-4a7d-9007-25b1b77383e1": {
+        "click": {
+            "ema": 0.0,
+            "count": 54
+        }
+    },
+    "73a3bc1a-fe4a-4325-aca4-67b63513e3ef": {
+        "click": {
+            "ema": 0.0,
+            "count": 54
+        }
+    },
+    "d254060f-9fff-4559-8305-e542ae621482": {
+        "click": {
+            "ema": 0.0,
+            "count": 54
+        }
+    },
+    "6bd62cac-bbca-473c-b7c8-df34a16af91d": {
+        "click": {
+            "ema": 0.0,
+            "count": 54
+        }
+    },
+    "e0167d5f-2635-411f-89df-183d2272b5c5": {
+        "manual": {
+            "ema": 6.024000000000001,
+            "count": 4
+        }
+    },
+    "4b7b7fd1-98f0-4d4f-9194-608353656726": {
+        "safe_action": {
+            "ema": 5.000014615016374,
+            "count": 54
+        }
+    },
+    "7a8a2c7c-eb4d-4fa7-8cfd-c0bdbed47e00": {
+        "form_name": "UK ETA",
+        "steps": {
+            "9976302f-3d7a-470b-b2c9-07fdd912cd1f": {
+                "goto": {
+                    "ema": 7.000000000000002,
+                    "count": 3
+                }
+            },
+            "5751a709-7bbe-4299-834e-683cff119f65": {
+                "click": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "c4f123ea-9a7c-401c-bec8-757a841458f4": {
+                "enter_text": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "0eae1b5f-2259-4f7e-b200-5982ef2fb095": {
+                "click": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "71ade12f-c7a5-4b50-8974-8a2cecec515f": {
+                "click": {
+                    "ema": 7.0,
+                    "count": 1
+                }
+            },
+            "6681f0cd-0da4-4942-85f4-90834b2b6b3a": {
+                "click": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "825c4c3d-174e-4d88-9d13-ab65590e2b72": {
+                "click": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "43902cda-3738-4a23-96de-5181f7f25a3f": {
+                "click": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "16eac95a-0c4b-4c19-be01-5c2b0b967052": {
+                "enter_text": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "7e747bbc-3c76-48b2-868a-1a5722cf61de": {
+                "click": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "e9b085e3-3d56-401a-ae84-209049509874": {
+                "manual": {
+                    "ema": 7.0,
+                    "count": 1
+                }
+            },
+            "052bacd8-8db9-4678-b192-3af2c7c33e51": {
+                "click": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "a0ac1409-d7db-4e58-a9e5-6d1c39e19ac0": {
+                "click": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "737e125d-8ee3-441d-81d8-a9ae40cc404b": {
+                "manual": {
+                    "ema": 7.0,
+                    "count": 1
+                }
+            },
+            "f93df5d1-72e1-43ab-a922-914c27616ca5": {
+                "click": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "cc55f2a1-fe3d-4f46-bf0f-519a7f852057": {
+                "click": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "f8245f38-15a5-4cc7-8405-7265e307e143": {
+                "manual": {
+                    "ema": 7.0,
+                    "count": 1
+                }
+            },
+            "ac519686-eb51-4bca-972a-39cb9d50e16c": {
+                "click": {
+                    "ema": 7.0,
+                    "count": 1
+                }
+            },
+            "946f900b-cf48-4dda-a1af-cd3876b4c0d3": {
+                "enter_text": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "d94c5980-5bb9-4159-81a2-47687d07b45f": {
+                "click": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "f0b1c245-5e27-402a-993a-faf15e433710": {
+                "enter_text": {
+                    "ema": 7.0,
+                    "count": 1
+                }
+            },
+            "9afb064f-68ce-4ebe-869e-15eeb9702a93": {
+                "enter_text": {
+                    "ema": 7.0,
+                    "count": 1
+                }
+            },
+            "a5fe870c-5e31-4419-bc50-5c0e0282a5f5": {
+                "click": {
+                    "ema": 7.0,
+                    "count": 1
+                }
+            },
+            "498af210-96b2-4c05-abf0-bea503103747": {
+                "enter_text": {
+                    "ema": 7.0,
+                    "count": 1
+                }
+            },
+            "a7566df2-2e19-41bb-af51-1386a1a5d406": {
+                "click": {
+                    "ema": 7.0,
+                    "count": 1
+                }
+            },
+            "5846f42f-09cd-408f-87ed-6e00fc3fad05": {
+                "click": {
+                    "ema": 7.0,
+                    "count": 1
+                }
+            },
+            "f498beb0-d091-4dec-a664-38d2b9a22e46": {
+                "click": {
+                    "ema": 7.0,
+                    "count": 1
+                }
+            },
+            "a86b13cd-ab29-41bd-8c54-cedb581e5f57": {
+                "enter_text": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "fc028aac-2478-4cdd-b4cf-f5bebdc56204": {
+                "enter_text": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "36c1ec49-a5a8-4b74-ade3-9cd0c29d748d": {
+                "enter_text": {
+                    "ema": 0,
+                    "count": 1
+                }
+            }
+        }
+    },
+    "71ade12f-c7a5-4b50-8974-8a2cecec515f": {
+        "click": {
+            "ema": 7.0,
+            "count": 1
+        }
+    },
+    "986ee2bd-f9bd-4e7a-9025-62a4be2e6fb2": {
+        "manual": {
+            "ema": 6.6000000000000005,
+            "count": 2
+        }
+    },
+    "0b794368-7334-4756-a675-249826abd9e7": {
+        "click": {
+            "ema": 0.0,
+            "count": 2
+        }
+    },
+    "d6c40bcb-fdca-469e-85e5-7b990979232e": {
+        "click": {
+            "ema": 0.20194478034973146,
+            "count": 2
+        }
+    },
+    "23740288-4498-4b59-a42f-b7f3297a921d": {
+        "manual": {
+            "ema": 6.6000000000000005,
+            "count": 2
+        }
+    },
+    "58b94423-001a-450b-b8d1-8c2c7398df1f": {
+        "click": {
+            "ema": 0.0,
+            "count": 2
+        }
+    },
+    "1d4ef75f-9d5e-4d71-9750-d76bf9cbb6cf": {
+        "manual": {
+            "ema": 6.6000000000000005,
+            "count": 2
+        }
+    },
+    "2c9ce82b-d779-4227-96ec-bd80b6b435b9": {
+        "goto": {
+            "ema": 5.0,
+            "count": 79
+        }
+    },
+    "804e5938-eea1-4a4e-8c9e-2a181f4bb31c": {
+        "manual": {
+            "ema": 5.0,
+            "count": 81
+        }
+    },
+    "2469bcea-d7c4-42af-9abb-2b424fe9073c": {
+        "click": {
+            "ema": 0.0003589975515326801,
+            "count": 81
+        }
+    },
+    "dc13777d-5447-42c2-bc7f-95581328d940": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 65
+        }
+    },
+    "60379c4e-a6f0-4bb7-9142-ae4e8b09c548": {
+        "click": {
+            "ema": 0.0,
+            "count": 65
+        }
+    },
+    "794eeab4-f9df-41ad-9e92-4395bc7db6b5": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 65
+        }
+    },
+    "437eb878-a20c-4650-b102-3d820bd730fd": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 65
+        }
+    },
+    "013b7553-8311-458f-abab-36dca0c291a7": {
+        "enter_date_dd_mm_yyyy_action": {
+            "ema": 0.0,
+            "count": 65
+        }
+    },
+    "2c6e2538-3fe5-4c3d-bae6-26b4214e035c": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 65
+        }
+    },
+    "c4b1ada6-3f14-492c-b024-1a77e2e8ff17": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 65
+        }
+    },
+    "2fd9ad9b-8ebf-4c0f-b756-fd9208ae7c9e": {
+        "click": {
+            "ema": 0.0,
+            "count": 65
+        }
+    },
+    "3a12009a-6df8-42a7-a53d-4b3070167333": {
+        "click": {
+            "ema": 0.0,
+            "count": 65
+        }
+    },
+    "eb3d8078-355c-4383-a770-ec199266297f": {
+        "force_date_injection_5days_action": {
+            "ema": 0.0,
+            "count": 65
+        }
+    },
+    "717e29b5-a75e-4360-9e97-2d26b7b67ffe": {
+        "ocr_captcha": {
+            "ema": 0.0,
+            "count": 64
+        }
+    },
+    "14a37ca4-7042-446d-9e52-cd71f637179e": {
+        "enter_ocr_result": {
+            "ema": 0.0,
+            "count": 65
+        }
+    },
+    "440836e6-586d-4321-8643-dcd99c44b35c": {
+        "click": {
+            "ema": 0.0,
+            "count": 64
+        }
+    },
+    "4220c476-2cdf-49fd-bdff-3ec58128592a": {
+        "click": {
+            "ema": 0.0,
+            "count": 64
+        }
+    },
+    "0dca3cd1-bde8-4099-b6d9-63809fc41ff3": {
+        "click": {
+            "ema": 0.0,
+            "count": 64
+        }
+    },
+    "8ae5d884-d5d6-4029-b842-13c9c1808638": {
+        "enter_text": {
+            "ema": 0.3335248341708566,
+            "count": 64
+        }
+    },
+    "caf38cd8-a26f-4859-b3ca-2b0fa384fb1b": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 62
+        }
+    },
+    "6500061b-68b6-40c8-baa9-16aa8fe8577f": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 62
+        }
+    },
+    "79dc14a7-b995-46e0-a0b3-2129c0363c4f": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 62
+        }
+    },
+    "fafd5ed8-fdf7-40ab-96e9-62e247c41afc": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 62
+        }
+    },
+    "2ff521d5-aef7-4785-a7d6-638ccaa98e60": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 62
+        }
+    },
+    "1842303f-8e75-4666-a5a2-73876620e924": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 62
+        }
+    },
+    "479b028b-6eaa-4638-84bd-d2efa93749c9": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 62
+        }
+    },
+    "1a10da5f-7f39-4e8b-8a17-9e6c9cf37356": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 62
+        }
+    },
+    "7fe41463-b5c7-4fe9-9372-d4895fdabe03": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 62
+        }
+    },
+    "ddf8aee4-db5e-4293-8f15-95fd723f341d": {
+        "click": {
+            "ema": 0.0,
+            "count": 62
+        }
+    },
+    "4a49629e-93bf-48c1-bdee-f88e83b72f4b": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 62
+        }
+    },
+    "34574eb6-bb1a-49da-ac2a-1fde85cf1b5a": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 62
+        }
+    },
+    "ab567c3d-0d38-4eef-8fb1-cd8ab526a450": {
+        "enter_date_dd_mm_yyyy_action": {
+            "ema": 0.0,
+            "count": 62
+        }
+    },
+    "fba15f83-f001-44d5-ad43-62ea995fb5f0": {
+        "enter_date_dd_mm_yyyy_action": {
+            "ema": 0.0,
+            "count": 62
+        }
+    },
+    "203317d4-0cbd-4a4e-960b-1731d32ae2d4": {
+        "click": {
+            "ema": 0.0,
+            "count": 10
+        }
+    },
+    "6eade6da-e0ba-4adc-a040-184eb8ecc273": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 10
+        }
+    },
+    "40211348-86de-4ad7-bae1-65babf26befa": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 10
+        }
+    },
+    "74d6267a-88ca-4fde-aae0-eecb2acdbf53": {
+        "enter_date_dd_mm_yyyy_action": {
+            "ema": 0.0,
+            "count": 10
+        }
+    },
+    "151c0a4f-add9-4446-96d1-d29ee91ac0c5": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 10
+        }
+    },
+    "2872f1d2-0e99-4105-abef-74d3a0deedd0": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 10
+        }
+    },
+    "0cd3c012-dba0-47b5-a91b-8503b847efcc": {
+        "click": {
+            "ema": 2.2300745198530677e-05,
+            "count": 55
+        }
+    },
+    "0ac0132e-25d5-4fe3-9e94-5b4ac22552b5": {
+        "click": {
+            "ema": 0.0,
+            "count": 61
+        }
+    },
+    "e9465ba5-4aa0-4cdb-9249-2b3441362034": {
+        "enter_text": {
+            "ema": 1.4264255980349648e-05,
+            "count": 61
+        }
+    },
+    "da52cd70-16d9-4ad0-b256-79486da06c19": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 57
+        }
+    },
+    "9dd28f53-e70c-4484-9abf-10e1bbdd1a74": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 57
+        }
+    },
+    "c53bc189-47a5-4c01-b6f1-e4d2bc028e3d": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 57
+        }
+    },
+    "5940d742-fe64-43ed-af1d-821a4858095b": {
+        "enter_text": {
+            "ema": 5.846006549323628e-06,
+            "count": 57
+        }
+    },
+    "a282e974-2896-42d6-a885-b20c93598751": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 56
+        }
+    },
+    "ea78e6ba-a04a-4006-a56c-3ad5b37d485b": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 56
+        }
+    },
+    "4cad3d15-0342-483a-90bb-be73a94da455": {
+        "click": {
+            "ema": 0.0,
+            "count": 56
+        }
+    },
+    "47a2ce9c-ef8d-4030-ac78-36d0930c511f": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 56
+        }
+    },
+    "a7fdd559-69d4-4a1a-948b-cf13602d8e59": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 56
+        }
+    },
+    "ccdf6908-1dcd-44b2-b682-18c97b0e2c0c": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 56
+        }
+    },
+    "1a273407-61b6-4c34-aa9e-bb7dd8db13ff": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 56
+        }
+    },
+    "a533ff3a-6f22-4c5c-94e1-43ee0fa3b84f": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 56
+        }
+    },
+    "6c99ad70-8e21-44f7-9efd-6f7433d9a95e": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 56
+        }
+    },
+    "ce2ffc54-e657-447e-9886-3cce4103ba0a": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 56
+        }
+    },
+    "77c60f04-6829-4f6d-8505-a8e12106dd68": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 56
+        }
+    },
+    "50104aab-6e3e-456e-a449-fd3d2ef9bc7a": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 56
+        }
+    },
+    "0b7ac8c0-1d79-4c8e-acfa-ed6d7079109b": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 56
+        }
+    },
+    "3712cdf1-5d5d-4dfc-90d6-0fb0af41daeb": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 56
+        }
+    },
+    "27a24eeb-0077-404d-8358-d72658fe546f": {
+        "click": {
+            "ema": 0.0,
+            "count": 56
+        }
+    },
+    "be7e1f34-cb94-4b07-a55a-19c16012fb9f": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 56
+        }
+    },
+    "150249c4-7894-4294-9bff-9d80dad5abc0": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 56
+        }
+    },
+    "66a8e321-6669-4b1f-a5ee-ce20fb2aa2ed": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 56
+        }
+    },
+    "c4653461-6b82-405a-8187-fce25779694a": {
+        "click": {
+            "ema": 7.307508186654534e-06,
+            "count": 56
+        }
+    },
+    "dcd4f715-e669-4f91-9e98-77064c5be199": {
+        "enter_text": {
+            "ema": 0.0017849921421590903,
+            "count": 55
+        }
+    },
+    "6c28676e-d9d7-40b2-9daf-1c748447c6fb": {
+        "click": {
+            "ema": 0.0,
+            "count": 55
+        }
+    },
+    "edaca9cb-5967-4237-83b2-4e186d47d010": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 55
+        }
+    },
+    "4c774e1a-1715-44e3-9432-b0d4367a59cf": {
+        "manual": {
+            "ema": 5.0,
+            "count": 55
+        }
+    },
+    "9976302f-3d7a-470b-b2c9-07fdd912cd1f": {
+        "goto": {
+            "ema": 5.0,
+            "count": 8
+        }
+    },
+    "5751a709-7bbe-4299-834e-683cff119f65": {
+        "click": {
+            "ema": 0.0,
+            "count": 2
+        }
+    },
+    "c4f123ea-9a7c-401c-bec8-757a841458f4": {
+        "enter_text": {
+            "ema": 4.0,
+            "count": 2
+        }
+    },
+    "0eae1b5f-2259-4f7e-b200-5982ef2fb095": {
+        "click": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "6681f0cd-0da4-4942-85f4-90834b2b6b3a": {
+        "click": {
+            "ema": 0.0,
+            "count": 7
+        }
+    },
+    "825c4c3d-174e-4d88-9d13-ab65590e2b72": {
+        "click": {
+            "ema": 0.0,
+            "count": 7
+        }
+    },
+    "43902cda-3738-4a23-96de-5181f7f25a3f": {
+        "click": {
+            "ema": 0.0,
+            "count": 7
+        }
+    },
+    "16eac95a-0c4b-4c19-be01-5c2b0b967052": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 7
+        }
+    },
+    "7e747bbc-3c76-48b2-868a-1a5722cf61de": {
+        "click": {
+            "ema": 0.0,
+            "count": 7
+        }
+    },
+    "e9b085e3-3d56-401a-ae84-209049509874": {
+        "manual": {
+            "ema": 5.524288000000001,
+            "count": 7
+        }
+    },
+    "052bacd8-8db9-4678-b192-3af2c7c33e51": {
+        "click": {
+            "ema": 0.40960000000000013,
+            "count": 7
+        }
+    },
+    "a0ac1409-d7db-4e58-a9e5-6d1c39e19ac0": {
+        "click": {
+            "ema": 0.4470804647827149,
+            "count": 6
+        }
+    },
+    "737e125d-8ee3-441d-81d8-a9ae40cc404b": {
+        "manual": {
+            "ema": 5.655360000000001,
+            "count": 6
+        }
+    },
+    "f93df5d1-72e1-43ab-a922-914c27616ca5": {
+        "click": {
+            "ema": 2.8496000000000006,
+            "count": 6
+        }
+    },
+    "cc55f2a1-fe3d-4f46-bf0f-519a7f852057": {
+        "click": {
+            "ema": 0.0,
+            "count": 3
+        }
+    },
+    "f8245f38-15a5-4cc7-8405-7265e307e143": {
+        "manual": {
+            "ema": 6.280000000000001,
+            "count": 3
+        }
+    },
+    "ac519686-eb51-4bca-972a-39cb9d50e16c": {
+        "click": {
+            "ema": 6.280000000000001,
+            "count": 3
+        }
+    },
+    "946f900b-cf48-4dda-a1af-cd3876b4c0d3": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 3
+        }
+    },
+    "d94c5980-5bb9-4159-81a2-47687d07b45f": {
+        "click": {
+            "ema": 0.0,
+            "count": 3
+        }
+    },
+    "f0b1c245-5e27-402a-993a-faf15e433710": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 2
+        }
+    },
+    "9afb064f-68ce-4ebe-869e-15eeb9702a93": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 2
+        }
+    },
+    "a5fe870c-5e31-4419-bc50-5c0e0282a5f5": {
+        "click": {
+            "ema": 0.0,
+            "count": 2
+        }
+    },
+    "498af210-96b2-4c05-abf0-bea503103747": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 2
+        }
+    },
+    "a7566df2-2e19-41bb-af51-1386a1a5d406": {
+        "click": {
+            "ema": 0.0,
+            "count": 2
+        }
+    },
+    "5846f42f-09cd-408f-87ed-6e00fc3fad05": {
+        "click": {
+            "ema": 6.6000000000000005,
+            "count": 2
+        }
+    },
+    "f498beb0-d091-4dec-a664-38d2b9a22e46": {
+        "click": {
+            "ema": 0.0,
+            "count": 2
+        }
+    },
+    "a86b13cd-ab29-41bd-8c54-cedb581e5f57": {
+        "enter_text": {
+            "ema": 0.8,
+            "count": 3
+        }
+    },
+    "fc028aac-2478-4cdd-b4cf-f5bebdc56204": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 2
+        }
+    },
+    "36c1ec49-a5a8-4b74-ade3-9cd0c29d748d": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 2
+        }
+    },
+    "74964c36-c56b-411f-864d-830c1373546b": {
+        "force_date_injection_5days_action": {
+            "ema": 0.0,
+            "count": 5
+        }
+    },
+    "42dec1dd-07dc-4836-af57-ccec6e926eeb": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 5
+        }
+    },
+    "fee99640-cdf0-4044-959f-844c9e3c218a": {
+        "enter_text": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "0b93eef0-735a-4cbd-abb4-c7619941e64a": {
+        "select_option": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "2f6168fc-5ac5-4b73-b3ff-87198b415412": {
+        "click": {
+            "ema": 0.0,
+            "count": 5
+        }
+    },
+    "2e6a0108-e3bc-43ed-ad3a-65299184fc13": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 5
+        }
+    },
+    "e1aeb1a9-5831-4e1d-9bf3-f6a518b1565c": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 5
+        }
+    },
+    "c0c8a121-4248-429d-b246-b8c7dabd8995": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 5
+        }
+    },
+    "31a207de-a1be-406b-8a09-73c9cb009611": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 5
+        }
+    },
+    "6bbd29c1-1f64-4a16-80a9-93306295de97": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 5
+        }
+    },
+    "0f5e39eb-d0bd-4a16-8b7b-ee2df7a4088a": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 5
+        }
+    },
+    "6585188b-60ee-4205-8559-e0f9096a9a51": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 5
+        }
+    },
+    "bea0c574-22c8-4b9b-bff7-5ee063d11de5": {
+        "click": {
+            "ema": 0.0,
+            "count": 5
+        }
+    },
+    "df7ef853-4079-4c24-89bf-67d055874ac3": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 5
+        }
+    },
+    "f0a28de1-321f-440c-af61-180848bb8ee6": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 5
+        }
+    },
+    "a5a09455-8384-4c8c-b365-18752d22e6f4": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 5
+        }
+    },
+    "fa1af6e5-53b4-4b8c-8b3a-98b08765856f": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 5
+        }
+    },
+    "015bc34b-5a7c-4cd0-b915-74423a3f8c1d": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 5
+        }
+    },
+    "2dff0445-bca7-4990-a400-a5016ed55b67": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 5
+        }
+    },
+    "e8f58ec8-a740-43a4-b6f8-28642b298270": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 5
+        }
+    },
+    "f2327298-8d98-4654-900d-72e1e11cfdb2": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 5
+        }
+    },
+    "e211c77b-ef51-4128-9b4f-70a5606a1121": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 5
+        }
+    },
+    "67efdeeb-fe49-4a59-95bc-75844c5b9ace": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 5
+        }
+    },
+    "53503d65-bab9-47c8-96e2-fe07078d3d4b": {
+        "click": {
+            "ema": 0.0,
+            "count": 5
+        }
+    },
+    "449f4177-502a-4f29-a96c-5021b7cc4f78": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 5
+        }
+    },
+    "bc7e4964-8bdd-4b83-9f8c-e4b788aa76a2": {
+        "enter_text": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "3436628a-212e-4222-a872-831b436f00a6": {
+        "enter_text": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "58688a7a-3f9d-4131-875e-688e1929556a": {
+        "click": {
+            "ema": 0.0,
+            "count": 5
+        }
+    },
+    "3df93e1a-6649-40e3-9c28-80fe854a4370": {
+        "enter_text": {
+            "ema": 2.9520000000000004,
+            "count": 5
+        }
+    },
+    "4898fb50-428e-44f7-9ec1-a2bc7336a46a": {
+        "manual": {
+            "ema": 7.000000000000002,
+            "count": 3
+        }
+    },
+    "375a7672-8b67-4fb9-b3eb-98f0a603f329": {
+        "select_country_two_steps": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "9ee2711b-45a7-4ffa-93d1-85117bb5b38b": {
+        "click": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "3b589dc3-a0b9-492c-98bf-75fd554bd1b1": {
+        "enter_text": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "a22804b6-7141-4ed6-a964-f7d03bdb45d1": {
+        "enter_text": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "2b32772e-495c-419d-89fd-3a3df7605c0e": {
+        "select_option": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "3bf15cb2-6c19-4c09-a471-8cf6e37517cc": {
+        "select_option": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "cebc295a-9aaf-4074-9d79-90c56dda9e4e": {
+        "enter_text": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "4f7eb8b6-03db-47c9-8de3-e32ba500f0d6": {
+        "enter_text": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "878ffb65-2584-49bf-9b7f-58322ea71911": {
+        "enter_text": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "b9b85c66-46af-4370-9aec-a05c4d5e140c": {
+        "enter_text": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "5e3bce1b-b5ef-49e6-a1ac-7888314efce3": {
+        "click": {
+            "ema": 0.0,
+            "count": 2
+        }
+    },
+    "4d605d14-d379-4245-a65e-bf4c40d4e837": {
+        "click": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "33aca4dc-4304-43a1-859c-4af373dbd4ed": {
+        "click": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "753131c6-a7cb-4f41-a8ab-b9c738e07e40": {
+        "click": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "34297c9d-8e7f-4574-b6e0-d08526bfbd09": {
+        "click": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "2b5ae26a-0d98-4174-98f5-14dec98f438c": {
+        "click": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "50fcb145-1ac5-4788-8f18-4ef41d30f28d": {
+        "click": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "9c13193d-c6f0-4d20-aaf1-12ac0406267a": {
+        "click": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "3177c5fd-901d-41ac-baed-bbfefd7acfde": {
+        "click": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "02ab5010-8d9a-4bfa-bcfb-9b1f34aeda5a": {
+        "safe_action": {
+            "ema": 7.0,
+            "count": 1
+        }
+    },
+    "477d8cd2-3aa2-4acc-bc28-4957f09231e8": {
+        "click": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "0b2891e5-1af9-47bf-8f89-a4463886d805": {
+        "click": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "81ccbcb1-22ea-4ab1-af3e-f1987f03d2c1": {
+        "select_option": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "ade998e3-cbf9-4f0b-9115-a14750c44cc5": {
+        "goto": {
+            "ema": 7.0,
+            "count": 1
+        }
+    },
+    "7e1275e2-55ac-4a8e-ad96-c1ac9af87d70": {
+        "form_name": "Vietman eVisa Single",
+        "steps": {
+            "ade998e3-cbf9-4f0b-9115-a14750c44cc5": {
+                "goto": {
+                    "ema": 7.000000000000001,
+                    "count": 2
+                }
+            },
+            "e8014671-3d3f-42ac-8b45-018730f4666b": {
+                "click": {
+                    "ema": 7.0,
+                    "count": 1
+                }
+            },
+            "836de6d7-be02-4a3c-b5a8-e316ee0b6bcd": {
+                "click": {
+                    "ema": 7.0,
+                    "count": 1
+                }
+            },
+            "acc1ddc0-52ea-4464-a439-15fdee1d1042": {
+                "click": {
+                    "ema": 7.0,
+                    "count": 1
+                }
+            },
+            "ddbdd7e8-dcce-44c5-b684-ff5463b4f0db": {
+                "click": {
+                    "ema": 7.0,
+                    "count": 1
+                }
+            },
+            "759e73e6-5646-497b-81d8-a3bb34c6eb63": {
+                "click": {
+                    "ema": 7.0,
+                    "count": 1
+                }
+            },
+            "b4ed6404-ea93-4b6f-9ec5-bd89445ddd4a": {
+                "manual": {
+                    "ema": 7.0,
+                    "count": 1
+                }
+            },
+            "8cc5d149-0732-411a-a249-7edfe545ae87": {
+                "enter_text": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "65be3f29-3559-4269-a48f-9fd44f8245c5": {
+                "enter_text": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "52e569d8-1543-4b2d-8a21-1bc7ef57179f": {
+                "click": {
+                    "ema": 7.0,
+                    "count": 1
+                }
+            },
+            "8be51988-bdc1-4e6e-85d8-4c67dce57e37": {
+                "enter_text": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "ad52138d-7949-41c9-b95a-127e4ff3e314": {
+                "enter_text": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "067d2e82-9ea2-417b-9413-e780e7082608": {
+                "enter_text": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "7f5514f6-3d82-4333-95fb-44f620d0376b": {
+                "click": {
+                    "ema": 7.0,
+                    "count": 1
+                }
+            },
+            "abb5bb6e-b028-4f0f-a2fa-f24057c9c6bc": {
+                "click": {
+                    "ema": 7.0,
+                    "count": 1
+                }
+            },
+            "f9540135-0c0b-493f-98aa-5447026df8c5": {
+                "click": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "70d9abdf-8361-47ca-a1c3-324ab317affa": {
+                "click": {
+                    "ema": 7.0,
+                    "count": 1
+                }
+            },
+            "05821042-88f3-4006-bd7f-657b0d53747d": {
+                "manual": {
+                    "ema": 7.0,
+                    "count": 1
+                }
+            },
+            "89d76edd-3837-49b2-849e-429d746055a3": {
+                "enter_text": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "92e1075f-2ad3-4f00-bf11-4a4bf198c39a": {
+                "click": {
+                    "ema": 0,
+                    "count": 1
+                }
+            }
+        }
+    },
+    "e8014671-3d3f-42ac-8b45-018730f4666b": {
+        "click": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "836de6d7-be02-4a3c-b5a8-e316ee0b6bcd": {
+        "click": {
+            "ema": 0.5144023895263672,
+            "count": 1
+        }
+    },
+    "acc1ddc0-52ea-4464-a439-15fdee1d1042": {
+        "click": {
+            "ema": 0.10512828826904297,
+            "count": 2
+        }
+    },
+    "ddbdd7e8-dcce-44c5-b684-ff5463b4f0db": {
+        "click": {
+            "ema": 0.0,
+            "count": 2
+        }
+    },
+    "759e73e6-5646-497b-81d8-a3bb34c6eb63": {
+        "click": {
+            "ema": 0.0,
+            "count": 2
+        }
+    },
+    "b4ed6404-ea93-4b6f-9ec5-bd89445ddd4a": {
+        "manual": {
+            "ema": 7.000000000000001,
+            "count": 2
+        }
+    },
+    "8cc5d149-0732-411a-a249-7edfe545ae87": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 2
+        }
+    },
+    "65be3f29-3559-4269-a48f-9fd44f8245c5": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 2
+        }
+    },
+    "52e569d8-1543-4b2d-8a21-1bc7ef57179f": {
+        "click": {
+            "ema": 7.000000000000001,
+            "count": 2
+        }
+    },
+    "8be51988-bdc1-4e6e-85d8-4c67dce57e37": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 2
+        }
+    },
+    "ad52138d-7949-41c9-b95a-127e4ff3e314": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 2
+        }
+    },
+    "067d2e82-9ea2-417b-9413-e780e7082608": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 2
+        }
+    },
+    "7f5514f6-3d82-4333-95fb-44f620d0376b": {
+        "click": {
+            "ema": 7.000000000000001,
+            "count": 2
+        }
+    },
+    "abb5bb6e-b028-4f0f-a2fa-f24057c9c6bc": {
+        "click": {
+            "ema": 7.000000000000001,
+            "count": 2
+        }
+    },
+    "f9540135-0c0b-493f-98aa-5447026df8c5": {
+        "click": {
+            "ema": 0.0,
+            "count": 2
+        }
+    },
+    "70d9abdf-8361-47ca-a1c3-324ab317affa": {
+        "click": {
+            "ema": 7.000000000000001,
+            "count": 2
+        }
+    },
+    "05821042-88f3-4006-bd7f-657b0d53747d": {
+        "manual": {
+            "ema": 7.000000000000001,
+            "count": 2
+        }
+    },
+    "89d76edd-3837-49b2-849e-429d746055a3": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 2
+        }
+    },
+    "92e1075f-2ad3-4f00-bf11-4a4bf198c39a": {
+        "click": {
+            "ema": 0.0,
+            "count": 2
+        }
+    },
+    "e8e2c3fd-50b5-4c53-9490-54ce65256a4f": {
+        "click": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "3aa4399c-2744-4abd-8174-25f6b927275d": {
+        "select_country_two_steps": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "76741998-2fc0-4348-ba71-47f1ea94917e": {
+        "select_country_two_steps": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "223f20bc-432f-4d33-b33b-5d43b71b6d6a": {
+        "manual": {
+            "ema": 5.171798691840001,
+            "count": 12
+        }
+    },
+    "26fdda44-4cf5-49d4-9284-275710616251": {
+        "click": {
+            "ema": 0.0,
+            "count": 12
+        }
+    },
+    "630a04e0-1308-478f-9edc-f4fb11d00de6": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 12
+        }
+    },
+    "626a7eb2-eb9b-427a-9df7-33143eb73f02": {
+        "click": {
+            "ema": 0.0,
+            "count": 12
+        }
+    },
+    "be0ea2ad-b065-4f65-a064-2a2d917111a0": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 12
+        }
+    },
+    "0525e29b-5326-45a5-b539-27f696f0b59a": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 12
+        }
+    },
+    "38868e72-d96b-437e-8dce-31783ee4ecd6": {
+        "enter_date_dd_mm_yyyy_action": {
+            "ema": 0.0,
+            "count": 12
+        }
+    },
+    "9be82c95-fd39-42ea-b7ab-f6a8b1cdd254": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 12
+        }
+    },
+    "19d09f9c-31b2-4a84-a4a4-9be2f7fc7d39": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 12
+        }
+    },
+    "80153f42-48f3-4da5-9ed2-84cdbc0a844a": {
+        "click": {
+            "ema": 0.0,
+            "count": 12
+        }
+    },
+    "d181ad41-60a3-447f-b3ef-2dc466f7752d": {
+        "click": {
+            "ema": 0.0,
+            "count": 12
+        }
+    },
+    "6c6e8ae4-7541-4b35-84bf-97c1409c9868": {
+        "force_date_injection_5days_action": {
+            "ema": 0.0,
+            "count": 12
+        }
+    },
+    "0e01b8d3-2469-4d67-a380-893ce2e3515c": {
+        "ocr_captcha": {
+            "ema": 0.0,
+            "count": 12
+        }
+    },
+    "591930fb-9fa6-458b-a4cd-7b7257df0d3d": {
+        "enter_ocr_result": {
+            "ema": 0.0,
+            "count": 12
+        }
+    },
+    "ee6f3aa9-5686-4998-bdd6-24f41bfccd3d": {
+        "click": {
+            "ema": 0.0,
+            "count": 12
+        }
+    },
+    "205533eb-02de-4d58-bc5d-5e379a4f26ed": {
+        "click": {
+            "ema": 0.0,
+            "count": 12
+        }
+    },
+    "89f8aeca-577a-443c-9d0e-6472ce964630": {
+        "click": {
+            "ema": 0.0,
+            "count": 12
+        }
+    },
+    "65964db4-eec4-4a8b-bf76-29a2cca5d86f": {
+        "enter_text": {
+            "ema": 0.40960000000000013,
+            "count": 12
+        }
+    },
+    "bd0068f7-20d2-4900-b846-85654494eb4f": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "3bb7312f-67c5-4061-83d3-05b73c4e1f9d": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "9a822d13-79b2-45e6-95a5-b58411a6e5ea": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "3d7f8ba5-0fc3-432c-95fa-63953c69620f": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "b245ab94-8181-42cc-9026-5fe747ec46c7": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "57e0c3e7-e6ad-4b39-92ad-b39e5c38407c": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "d7a44f82-4094-4952-8dd6-1ad4d04c5aa5": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "39494852-ba0c-4af7-93d0-20ed2686a96c": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "ab9acbd6-bbb7-4bdb-b2a4-c509a8514dcd": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "7d683548-40f1-45c5-ac03-232e45d35ff9": {
+        "click": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "3d4f5665-f23b-4ced-993c-ea64ad0a1cbd": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "33118a2d-d583-4d89-9d35-e253b8a2e19e": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "4683ad5c-b7fb-4a52-a1cf-b3b2ec02e19a": {
+        "enter_date_dd_mm_yyyy_action": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "cd70e39d-263e-4c02-b709-767475581ef3": {
+        "enter_date_dd_mm_yyyy_action": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "29801b02-4b40-4c71-8347-96987775a887": {
+        "click": {
+            "ema": 0.0,
+            "count": 3
+        }
+    },
+    "1eba94e5-e484-472a-9163-210ec6f689d9": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 3
+        }
+    },
+    "e96c80eb-1570-4849-a926-e5bfb4a34e01": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 3
+        }
+    },
+    "6971c1c1-163c-4318-9a97-e0a293aaf639": {
+        "enter_date_dd_mm_yyyy_action": {
+            "ema": 0.0,
+            "count": 3
+        }
+    },
+    "443e9bb0-b8ce-43d4-8b54-35ea691b7077": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 3
+        }
+    },
+    "5db78473-4cd2-401c-ad41-c4176d53d1f2": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 3
+        }
+    },
+    "20fcf41f-5826-45d9-bab8-cc85de9ec4d4": {
+        "click": {
+            "ema": 0.0,
+            "count": 9
+        }
+    },
+    "d56e88d1-bed6-41e1-bf44-4770de6830e8": {
+        "click": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "735ae7b9-8d02-451c-a3a3-a4b241f00cfc": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "3a044579-23f7-4870-91d9-6497ef38b563": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "5c64b5ab-74c6-423e-8b55-0e7b32aed967": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "bca76c29-c89f-4f2a-b9a8-3f59d6c5a6d6": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "72ae9c20-11e8-42e0-97a3-be7cc677dd5c": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "bf910336-2130-4d62-907b-20719605763a": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "99ad9551-196e-4876-9294-e214f697be0e": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "305e98e3-baf0-451c-acf2-354de107d5f2": {
+        "click": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "3b23190a-939f-4c2b-ba8a-5bf3072460de": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "537008bb-21a6-450c-ba98-3712f3e31470": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "d894e9b6-23cd-46ab-95f6-e9bccfab72c3": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "30e32d28-528a-4d00-9f07-c5ce27490eee": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "c8e2b53b-f6d5-4876-98e1-ce8bdc5e3ed5": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "b6c4724e-3792-4952-8512-8cfb7c4f6b4f": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "ad38565f-e117-4723-9142-39feb1240db9": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "658ba1bc-39cc-47a4-8eaf-6fa180ec18fa": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "ea41aad7-c5e0-4da0-8723-de534b8a9ef7": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "5ecf90fb-5443-4494-9ace-5315d22d8869": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "0891ac54-9c74-4c4d-9dd9-697a6443ed49": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "e2375dad-e8a5-4fb8-9a7d-7e6d2d8c5c49": {
+        "click": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "ce069ae8-2e88-4d22-9f47-da5efef63acf": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "b5e6db72-ddd7-4b8c-a2c6-41f4a57f556a": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "90f5e9e0-a366-4940-96b7-5cb7480c2589": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "2f8c9ecc-1242-4fe0-80a2-1c37bdddd0f0": {
+        "click": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "cda69244-e111-4deb-bd41-291e3a326758": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "26f3edb7-3bab-4dc5-b72a-7395074cdfd7": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "62d992b1-d751-4f8f-af08-2dfbe42b4223": {
+        "click": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "53f3d7f6-ce93-4e76-b0bc-3ae8e58310bf": {
+        "manual": {
+            "ema": 5.214748364800001,
+            "count": 11
+        }
+    },
+    "8b8dece3-d365-4c77-bd21-325015a40c99": {
+        "select_country_two_steps": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "5dc581ce-0e7a-4d4f-a76a-23b988ba4f30": {
+        "click": {
+            "ema": 0.0,
+            "count": 10
+        }
+    },
+    "7cb19968-b446-48d3-bd4e-ac9e55ddcaa4": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 10
+        }
+    },
+    "a8ca00bc-d673-4195-8808-a3cb7667ae8f": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 10
+        }
+    },
+    "26326641-aa50-4644-b3f4-6a49d920130d": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 10
+        }
+    },
+    "1938baaa-1769-4337-ae7e-1b9890e0c611": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 10
+        }
+    },
+    "78945f49-6cdf-43de-8ed0-f598688cd325": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 10
+        }
+    },
+    "e5e64696-1943-4206-95a9-e7f47daaf17b": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 10
+        }
+    },
+    "4ac6e8ff-a1d3-4930-816e-1f59c705002b": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 10
+        }
+    },
+    "bf9b9485-7270-4ca6-a211-559a6c63ec42": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 10
+        }
+    },
+    "c19b1f50-a93d-4f91-900f-5a268ba78057": {
+        "click": {
+            "ema": 0.0,
+            "count": 10
+        }
+    },
+    "dfcd0695-dc9b-4201-87d2-dcd4a0c2ec26": {
+        "click": {
+            "ema": 0.5120000000000001,
+            "count": 10
+        }
+    },
+    "fc147b65-69a8-495f-8b97-c92822bf4075": {
+        "click": {
+            "ema": 0.0,
+            "count": 9
+        }
+    },
+    "d3f06cea-8267-43dc-8a47-39eee79b6832": {
+        "click": {
+            "ema": 0.0,
+            "count": 9
+        }
+    },
+    "6ba84e9b-2c93-46d0-9e0f-252498789f99": {
+        "click": {
+            "ema": 0.0,
+            "count": 9
+        }
+    },
+    "eca5ec3e-10d4-434c-a40f-9a6c06c00b98": {
+        "click": {
+            "ema": 0.0,
+            "count": 9
+        }
+    },
+    "e052e623-328d-424e-a32c-aa5ecb80cde4": {
+        "click": {
+            "ema": 0.0,
+            "count": 9
+        }
+    },
+    "b9c1ff67-a8d9-4e35-973f-a5258f0693e2": {
+        "click": {
+            "ema": 0.0,
+            "count": 9
+        }
+    },
+    "cef650d5-c659-44d6-9799-5b19bfffb2d2": {
+        "click": {
+            "ema": 0.0,
+            "count": 9
+        }
+    },
+    "9ef61d53-5ce6-486f-8830-ff48b8f17f24": {
+        "safe_action": {
+            "ema": 5.335544320000001,
+            "count": 9
+        }
+    },
+    "9efcb1e7-280a-490f-a1e6-253a85c8220f": {
+        "goto": {
+            "ema": 7.0,
+            "count": 1
+        }
+    },
+    "1c7ea05e-a3f9-43b5-ac7d-e1adb52a3c32": {
+        "click": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "e4a5beb5-4ded-4639-a757-44a955260c10": {
+        "goto": {
+            "ema": 5.0,
+            "count": 21
+        }
+    },
+    "02fd65de-0fcd-42e5-ac57-1560c8744748": {
+        "click": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "6fd14f87-6a38-4ea8-89b2-b98a17a28ba9": {
+        "click": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "50ddfd9f-7a8a-4f09-9b55-60f6e9897eff": {
+        "click": {
+            "ema": 5.0,
+            "count": 1
+        }
+    },
+    "474a90c2-7004-4afa-961c-03afa8f6037b": {
+        "click": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "914bca76-5a4f-4150-b13c-ca16b570e580": {
+        "click": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "481803d2-8f11-4712-a17f-75662e8d18a2": {
+        "click": {
+            "ema": 5.0,
+            "count": 1
+        }
+    },
+    "d2624d4a-03f2-43db-84c6-0fb2a95b39a2": {
+        "click": {
+            "ema": 0.0,
+            "count": 21
+        }
+    },
+    "eebbac58-2ec6-4fc1-b0d6-7c9644b62033": {
+        "click": {
+            "ema": 0.0,
+            "count": 21
+        }
+    },
+    "f1321b4b-ba98-444c-9285-80d1f09ac850": {
+        "click": {
+            "ema": 5.023058430092138,
+            "count": 21
+        }
+    },
+    "bf7f7729-c851-4686-b5a2-37c070b8ad91": {
+        "click": {
+            "ema": 7.0,
+            "count": 1
+        }
+    },
+    "cccabdf0-af7a-49d7-90d9-f0874d874650": {
+        "click": {
+            "ema": 7.0,
+            "count": 1
+        }
+    },
+    "24e1c6a2-cf2e-495c-91a8-31855b817acc": {
+        "click": {
+            "ema": 0.0,
+            "count": 22
+        }
+    },
+    "31680151-4dd2-4419-80a3-4e197adc21a9": {
+        "select_option": {
+            "ema": 1.4000000000000001,
+            "count": 2
+        }
+    },
+    "546a29e2-9a01-4fe6-b360-975bba4487bc": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 2
+        }
+    },
+    "fc357647-9a5b-4672-bf98-df366dede734": {
+        "click": {
+            "ema": 0.0,
+            "count": 2
+        }
+    },
+    "8e5bc561-973c-4bfb-9dee-01a22c752857": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 2
+        }
+    },
+    "5da0dd0d-e3f3-4e9b-b8c9-728046795a46": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 2
+        }
+    },
+    "9f42b616-4c6d-468a-8b26-122b74651767": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 2
+        }
+    },
+    "7ee958a9-d400-48bc-b600-15bc47752dd6": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 2
+        }
+    },
+    "7332065e-6a26-456b-bb12-8c6eed54eb66": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 2
+        }
+    },
+    "e224aa43-ee96-4c61-83f6-a4c49db8113c": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 2
+        }
+    },
+    "d85ab9a6-00e1-44ee-bd2b-72a6d6db3718": {
+        "click": {
+            "ema": 0.0,
+            "count": 2
+        }
+    },
+    "7ac21d28-edcd-4ea1-bde9-4cca8f7af96f": {
+        "click": {
+            "ema": 0.0,
+            "count": 2
+        }
+    },
+    "9be7dde6-7a0d-45ed-ac66-bc719b1ae3e1": {
+        "click": {
+            "ema": 0.0,
+            "count": 2
+        }
+    },
+    "932bcfec-6882-42cb-b16c-8d23af7295ab": {
+        "select_option": {
+            "ema": 4.912630167229013,
+            "count": 20
+        }
+    },
+    "27f22966-836e-4e03-bba8-15f08b1733ec": {
+        "click": {
+            "ema": 0.07696581394432003,
+            "count": 17
+        }
+    },
+    "3efc52ca-c271-4ee5-ae61-54ddd408d140": {
+        "select_option": {
+            "ema": 0.487040576501947,
+            "count": 20
+        }
+    },
+    "19b955bb-5c27-4c73-8878-88ee040ff38d": {
+        "select_option": {
+            "ema": 0.06157265115545603,
+            "count": 16
+        }
+    },
+    "efa2ef7c-412e-47d1-b0ec-2997d89c278b": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 15
+        }
+    },
+    "1a43b238-c075-400a-b293-ee23bc47abb1": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 15
+        }
+    },
+    "979ddb92-833e-497d-87d0-182f79151f59": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 15
+        }
+    },
+    "61bf6372-5650-4732-852d-40e7d52b2a54": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 15
+        }
+    },
+    "1a20b6dc-6da7-4b21-ace9-b0d9c364a980": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 15
+        }
+    },
+    "bd368328-298d-4c2a-8062-35bb54c8efba": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 15
+        }
+    },
+    "8fce5e34-e454-4722-bc60-e49590389bca": {
+        "enter_year_action": {
+            "ema": 0.0,
+            "count": 15
+        }
+    },
+    "6afdf71b-04ce-45d3-99a1-6d389f691ab4": {
+        "enter_month_action": {
+            "ema": 0.0,
+            "count": 15
+        }
+    },
+    "14093b38-43a5-49c3-9269-44edf2cc3e23": {
+        "select_option": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "6dbf3d60-ffdb-4f88-aab1-80a19ab1ab53": {
+        "click": {
+            "ema": 5.023058430092138,
+            "count": 21
+        }
+    },
+    "cf8ba892-c4b8-4d4f-865e-894548b4640a": {
+        "enter_day_action": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "0f9177c5-6b60-45a3-88d6-ad44cc4b5540": {
+        "enter_day_action": {
+            "ema": 0.0,
+            "count": 13
+        }
+    },
+    "83c753ae-3052-4136-b79e-e834c982adab": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 13
+        }
+    },
+    "a6d32822-7387-46d8-9591-fe4798608d4b": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 13
+        }
+    },
+    "7f8e6768-1a22-46a7-abe7-d6ff17bd30ab": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 13
+        }
+    },
+    "d498b75c-03a4-4513-ad5f-8c0945cd4ddb": {
+        "enter_year_action": {
+            "ema": 0.0,
+            "count": 13
+        }
+    },
+    "ce6416b5-ab5a-49b4-abaa-11125511a4f6": {
+        "enter_month_action": {
+            "ema": 0.0,
+            "count": 13
+        }
+    },
+    "f8800712-5d71-4d95-957f-a287fc107aac": {
+        "enter_day_action": {
+            "ema": 0.0,
+            "count": 13
+        }
+    },
+    "05de9091-75ce-4089-9b9b-ecb14678ab6d": {
+        "enter_year_action": {
+            "ema": 0.0,
+            "count": 13
+        }
+    },
+    "82b5b3d5-dbd7-4cba-8b51-154ba42c3c65": {
+        "enter_month_action": {
+            "ema": 0.0,
+            "count": 13
+        }
+    },
+    "f197074d-2bb3-46fe-bf82-80b11ed2493f": {
+        "enter_day_action": {
+            "ema": 0.0,
+            "count": 13
+        }
+    },
+    "42194fe6-6844-4878-9421-b929af664e5d": {
+        "manual": {
+            "ema": 5.137438953472001,
+            "count": 13
+        }
+    },
+    "426c24d6-b9dd-4bf7-b918-a598a3e82419": {
+        "manual": {
+            "ema": 5.137438953472001,
+            "count": 13
+        }
+    },
+    "ef81de91-88e8-43d4-9470-4d5515c9c1c1": {
+        "manual": {
+            "ema": 5.137438953472001,
+            "count": 13
+        }
+    },
+    "edb5374c-62a5-4c75-8ee9-06fd064e44ac": {
+        "select_option": {
+            "ema": 0.08589934592000005,
+            "count": 13
+        }
+    },
+    "0ebb6ee2-e476-4ca6-80d0-a3cb0db6d837": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 12
+        }
+    },
+    "a9d91211-af3f-440d-8c1f-a4c10915fc7b": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 12
+        }
+    },
+    "59afa609-7c77-4b2f-87c1-f3bb6c2b2c5c": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 12
+        }
+    },
+    "afedc895-d2a4-443d-9e06-7c5ade86faea": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 12
+        }
+    },
+    "11c6b20f-08b9-4c49-addc-4e976dc30517": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 12
+        }
+    },
+    "01c02417-f478-418a-9761-416dff0e8df4": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 12
+        }
+    },
+    "e8ec5e10-5e15-4683-80e5-570cbbb90feb": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 12
+        }
+    },
+    "1a96275e-5ac9-4f41-8518-6a0afb919d76": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 12
+        }
+    },
+    "b1cada38-c8a3-483b-a2db-9d9f0f3c00a0": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 12
+        }
+    },
+    "eea71ad5-5e27-4287-89ac-7bc2f28368a0": {
+        "select_option": {
+            "ema": 0.0,
+            "count": 12
+        }
+    },
+    "3408259f-e8fa-4486-8586-d5d7ee269d6f": {
+        "enter_text": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "3c75e33d-a6a3-4cca-918f-6352f34eaf03": {
+        "click": {
+            "ema": 0.0,
+            "count": 12
+        }
+    },
+    "7e16ae93-2961-4da1-b903-8e82fb3d8eb9": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 12
+        }
+    },
+    "5df526b8-4921-4c94-ad7a-b2bf31d5848d": {
+        "safe_action": {
+            "ema": 5.171798691840001,
+            "count": 12
+        }
+    },
+    "c396c988-8e61-4139-a56b-22b31c062e6e": {
+        "enter_text": {
+            "ema": 0.0,
+            "count": 11
+        }
+    },
+    "5384d949-a464-4fc6-bb24-1f65a95ef7f2": {
+        "goto": {
+            "ema": 7.0,
+            "count": 1
+        }
+    },
+    "7e50d1b0-f366-4fbe-91d4-9b35387f267f": {
+        "goto": {
+            "ema": 7.0,
+            "count": 1
+        }
+    },
+    "1dc828bf-1a83-4248-80b1-04e0ded21905": {
+        "click": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "6d9033b2-4868-4172-9d68-b2a4e64a51a3": {
+        "click": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "75fb3049-136d-468e-8612-bc9cd43fae54": {
+        "form_name": "THAILAND PLF",
+        "steps": {
+            "1dc828bf-1a83-4248-80b1-04e0ded21905": {
+                "click": {
+                    "ema": 1.4680064000000002,
+                    "count": 8
+                }
+            },
+            "7e50d1b0-f366-4fbe-91d4-9b35387f267f": {
+                "goto": {
+                    "ema": 7.000000000000002,
+                    "count": 7
+                }
+            },
+            "a6d49c94-bd29-46f1-9c41-3d4e610452d2": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 6
+                }
+            },
+            "e5901ef4-bb5f-4318-88fb-f9f0a7ade049": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 6
+                }
+            },
+            "04838216-a5d1-4bb4-b3de-1f06b1a71ab8": {
+                "enter_text": {
+                    "ema": 0.0,
+                    "count": 6
+                }
+            },
+            "d624b360-59ab-4b26-90df-53118a6e1020": {
+                "search_and_select_from_dropdown_action": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "04c80490-e0b4-49dd-bdfe-96365cd9c400": {
+                "select_country_two_steps": {
+                    "ema": 0.0,
+                    "count": 3
+                }
+            },
+            "33b77597-5195-44ef-99ad-b5b3038aee56": {
+                "enter_text": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "711d984a-efd5-4dfc-9231-8de5198e5144": {
+                "enter_text": {
+                    "ema": 0,
+                    "count": 1
+                }
+            },
+            "0f1d9769-7f7c-4f81-a7c0-af7cf5cfe1cd": {
+                "enter_text": {
+                    "ema": 0,
+                    "count": 1
+                }
+            }
+        }
+    },
+    "a6d49c94-bd29-46f1-9c41-3d4e610452d2": {
+        "enter_text": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "e5901ef4-bb5f-4318-88fb-f9f0a7ade049": {
+        "enter_text": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "04838216-a5d1-4bb4-b3de-1f06b1a71ab8": {
+        "enter_text": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "408e8c0e-d9cc-48aa-ab27-e4658006da7e": {
+        "enter_text": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "d624b360-59ab-4b26-90df-53118a6e1020": {
+        "search_and_select_from_dropdown_action": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "f41b9657-e097-4a9a-9ca0-321bce5934fd": {
+        "search_and_select_from_dropdown_action": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "04c80490-e0b4-49dd-bdfe-96365cd9c400": {
+        "select_country_two_steps": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "dc7942b7-6401-4f3d-8fc6-697d7cd6f98b": {
+        "enter_text": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "0723fa71-b3ed-4e2b-a11e-1b3e99cd9222": {
+        "enter_text": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "33b77597-5195-44ef-99ad-b5b3038aee56": {
+        "enter_text": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "711d984a-efd5-4dfc-9231-8de5198e5144": {
+        "enter_text": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "0f1d9769-7f7c-4f81-a7c0-af7cf5cfe1cd": {
+        "enter_text": {
+            "ema": 0,
+            "count": 1
+        }
+    },
+    "b3456e08-9ad9-4178-92aa-42c704346720": {
+        "enter_text": {
+            "ema": 0,
+            "count": 1
+        }
+    }
+}

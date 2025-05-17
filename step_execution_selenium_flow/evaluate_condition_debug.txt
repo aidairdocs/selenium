@@ -1,0 +1,15 @@
+=== FULL DEBUG START ===
+Timestamp: 2025-05-14 13:39:58
+Received expr_key (type: <class 'str'>): ["IS_MINOR_FALSE"]
+Received condition_context (type: <class 'dict'>):
+{
+  "IS_MINOR_TRUE": false,
+  "IS_MINOR_FALSE": true,
+  "HAS_SECOND_PASSPORT": false,
+  "HAS_NO_SECOND_PASSPORT": true
+}
+Parsed expr_key into list: ['IS_MINOR_FALSE']
+Condition is a list. Evaluating each condition (logical AND).
+Evaluating key: 'IS_MINOR_FALSE' -> Expression: 'IS_MINOR_TRUE == False'
+Result of 'IS_MINOR_TRUE == False' with context {'IS_MINOR_TRUE': False, 'IS_MINOR_FALSE': True, 'HAS_SECOND_PASSPORT': False, 'HAS_NO_SECOND_PASSPORT': True}: True
+All conditions in the list evaluated to True. Returning True.

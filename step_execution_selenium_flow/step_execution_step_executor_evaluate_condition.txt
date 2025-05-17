@@ -1,0 +1,11 @@
+=== FULL DEBUG START ===
+Timestamp: 2025-02-26 10:51:31
+Received expr_key (type: <class 'str'>): 
+Received condition_context (type: <class 'dict'>):
+{
+  "IS_MINOR_TRUE": false,
+  "IS_MINOR_FALSE": true,
+  "HAS_SECOND_PASSPORT": false,
+  "HAS_NO_SECOND_PASSPORT": true
+}
+No condition provided. Returning True.
